@@ -2,77 +2,77 @@
   "1-1": {
     "現代社会": {
       "ID": "19F110001",
-      "科目種別": "一般",
+      "専門": false,
       "必修": true,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=0001&year=2019&lang=ja",
-      "履修": true,
+      "学修": false,
       "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=0001&year=2019&lang=ja",
       "先生": [
         "久保田 佳克"
       ]
     },
     "英語ＡⅠ": {
       "ID": "19F110002",
-      "科目種別": "一般",
+      "専門": false,
       "必修": true,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=0002&year=2019&lang=ja",
-      "履修": true,
+      "学修": false,
       "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=0002&year=2019&lang=ja",
       "先生": [
         "竹内 素子"
       ]
     },
     "英語ＢⅠ": {
       "ID": "19F110003",
-      "科目種別": "一般",
+      "専門": false,
       "必修": true,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=0003&year=2019&lang=ja",
-      "履修": true,
+      "学修": false,
       "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=0003&year=2019&lang=ja",
       "先生": [
         "福地 和則"
       ]
     },
     "芸術": {
       "ID": "19F110004",
-      "科目種別": "一般",
+      "専門": false,
       "必修": false,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=0004&year=2019&lang=ja",
-      "履修": true,
+      "学修": false,
       "単位数": 1,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=0004&year=2019&lang=ja",
       "先生": [
         "横山 留美"
       ]
     },
     "基礎数学Ａ": {
       "ID": "19F110005",
-      "科目種別": "一般",
+      "専門": false,
       "必修": true,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=0006&year=2019&lang=ja",
-      "履修": true,
+      "学修": false,
       "単位数": 4,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=0006&year=2019&lang=ja",
       "先生": [
         "加賀谷 美佳"
       ]
     },
     "基礎数学Ｂ": {
       "ID": "19F110006",
-      "科目種別": "一般",
+      "専門": false,
       "必修": true,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=0007&year=2019&lang=ja",
-      "履修": true,
+      "学修": false,
       "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=0007&year=2019&lang=ja",
       "先生": [
         "兼下 英司"
       ]
     },
     "保健体育Ⅰ": {
       "ID": "19F110007",
-      "科目種別": "一般",
+      "専門": false,
       "必修": true,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=0008&year=2019&lang=ja",
-      "履修": true,
+      "学修": false,
       "単位数": 3,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=0008&year=2019&lang=ja",
       "先生": [
         "東畑 陽介",
         "兼村 裕介"
@@ -80,66 +80,66 @@
     },
     "国語Ⅰ": {
       "ID": "19F110008",
-      "科目種別": "一般",
+      "専門": false,
       "必修": true,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=0010&year=2019&lang=ja",
-      "履修": true,
+      "学修": false,
       "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=0010&year=2019&lang=ja",
       "先生": [
         "伊勢 英明"
       ]
     },
     "地理": {
       "ID": "19F110009",
-      "科目種別": "一般",
+      "専門": false,
       "必修": true,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=0011&year=2019&lang=ja",
-      "履修": true,
+      "学修": false,
       "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=0011&year=2019&lang=ja",
       "先生": [
         "矢澤 睦"
       ]
     },
     "基礎数学Ｃ": {
       "ID": "19F110010",
-      "科目種別": "一般",
+      "専門": false,
       "必修": true,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=0012&year=2019&lang=ja",
-      "履修": true,
+      "学修": false,
       "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=0012&year=2019&lang=ja",
       "先生": [
         "兼下 英司"
       ]
     },
     "化学Ⅰ": {
       "ID": "19F110011",
-      "科目種別": "一般",
+      "専門": false,
       "必修": true,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=0013&year=2019&lang=ja",
-      "履修": true,
+      "学修": false,
       "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=0013&year=2019&lang=ja",
       "先生": [
         "小松 京嗣"
       ]
     },
     "コンピュータリテラシ": {
       "ID": "19F110012",
-      "科目種別": "専門",
+      "専門": true,
       "必修": true,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=0005&year=2019&lang=ja",
-      "履修": true,
+      "学修": false,
       "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=0005&year=2019&lang=ja",
       "先生": [
         "岡本 圭史"
       ]
     },
     "総合工学基礎": {
       "ID": "19F110013",
-      "科目種別": "専門",
+      "専門": true,
       "必修": true,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=0009&year=2019&lang=ja",
-      "履修": true,
+      "学修": false,
       "単位数": 4,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=0009&year=2019&lang=ja",
       "先生": [
         "佐久間 実緒",
         "鈴木 順",
@@ -160,77 +160,77 @@
   "1-2": {
     "現代社会": {
       "ID": "19F210001",
-      "科目種別": "一般",
+      "専門": false,
       "必修": true,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=0001&year=2019&lang=ja",
-      "履修": true,
+      "学修": false,
       "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=0001&year=2019&lang=ja",
       "先生": [
         "久保田 佳克"
       ]
     },
     "英語ＡⅠ": {
       "ID": "19F210002",
-      "科目種別": "一般",
+      "専門": false,
       "必修": true,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=0002&year=2019&lang=ja",
-      "履修": true,
+      "学修": false,
       "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=0002&year=2019&lang=ja",
       "先生": [
         "竹内 素子"
       ]
     },
     "英語ＢⅠ": {
       "ID": "19F210003",
-      "科目種別": "一般",
+      "専門": false,
       "必修": true,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=0003&year=2019&lang=ja",
-      "履修": true,
+      "学修": false,
       "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=0003&year=2019&lang=ja",
       "先生": [
         "福地 和則"
       ]
     },
     "芸術": {
       "ID": "19F210004",
-      "科目種別": "一般",
+      "専門": false,
       "必修": false,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=0004&year=2019&lang=ja",
-      "履修": true,
+      "学修": false,
       "単位数": 1,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=0004&year=2019&lang=ja",
       "先生": [
         "横山 留美"
       ]
     },
     "基礎数学Ａ": {
       "ID": "19F210005",
-      "科目種別": "一般",
+      "専門": false,
       "必修": true,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=0006&year=2019&lang=ja",
-      "履修": true,
+      "学修": false,
       "単位数": 4,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=0006&year=2019&lang=ja",
       "先生": [
         "加賀谷 美佳"
       ]
     },
     "基礎数学Ｂ": {
       "ID": "19F210006",
-      "科目種別": "一般",
+      "専門": false,
       "必修": true,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=0007&year=2019&lang=ja",
-      "履修": true,
+      "学修": false,
       "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=0007&year=2019&lang=ja",
       "先生": [
         "兼下 英司"
       ]
     },
     "保健体育Ⅰ": {
       "ID": "19F210007",
-      "科目種別": "一般",
+      "専門": false,
       "必修": true,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=0008&year=2019&lang=ja",
-      "履修": true,
+      "学修": false,
       "単位数": 3,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=0008&year=2019&lang=ja",
       "先生": [
         "東畑 陽介",
         "兼村 裕介"
@@ -238,66 +238,66 @@
     },
     "国語Ⅰ": {
       "ID": "19F210008",
-      "科目種別": "一般",
+      "専門": false,
       "必修": true,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=0010&year=2019&lang=ja",
-      "履修": true,
+      "学修": false,
       "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=0010&year=2019&lang=ja",
       "先生": [
         "伊勢 英明"
       ]
     },
     "地理": {
       "ID": "19F210009",
-      "科目種別": "一般",
+      "専門": false,
       "必修": true,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=0011&year=2019&lang=ja",
-      "履修": true,
+      "学修": false,
       "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=0011&year=2019&lang=ja",
       "先生": [
         "矢澤 睦"
       ]
     },
     "基礎数学Ｃ": {
       "ID": "19F210010",
-      "科目種別": "一般",
+      "専門": false,
       "必修": true,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=0012&year=2019&lang=ja",
-      "履修": true,
+      "学修": false,
       "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=0012&year=2019&lang=ja",
       "先生": [
         "兼下 英司"
       ]
     },
     "化学Ⅰ": {
       "ID": "19F210011",
-      "科目種別": "一般",
+      "専門": false,
       "必修": true,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=0013&year=2019&lang=ja",
-      "履修": true,
+      "学修": false,
       "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=0013&year=2019&lang=ja",
       "先生": [
         "小松 京嗣"
       ]
     },
     "コンピュータリテラシ": {
       "ID": "19F210012",
-      "科目種別": "専門",
+      "専門": true,
       "必修": true,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=0005&year=2019&lang=ja",
-      "履修": true,
+      "学修": false,
       "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=0005&year=2019&lang=ja",
       "先生": [
         "岡本 圭史"
       ]
     },
     "総合工学基礎": {
       "ID": "19F210013",
-      "科目種別": "専門",
+      "専門": true,
       "必修": true,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=0009&year=2019&lang=ja",
-      "履修": true,
+      "学修": false,
       "単位数": 4,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=0009&year=2019&lang=ja",
       "先生": [
         "佐久間 実緒",
         "鈴木 順",
@@ -318,77 +318,77 @@
   "1-3": {
     "現代社会": {
       "ID": "19F310001",
-      "科目種別": "一般",
+      "専門": false,
       "必修": true,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=0001&year=2019&lang=ja",
-      "履修": true,
+      "学修": false,
       "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=0001&year=2019&lang=ja",
       "先生": [
         "久保田 佳克"
       ]
     },
     "英語ＡⅠ": {
       "ID": "19F310002",
-      "科目種別": "一般",
+      "専門": false,
       "必修": true,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=0002&year=2019&lang=ja",
-      "履修": true,
+      "学修": false,
       "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=0002&year=2019&lang=ja",
       "先生": [
         "竹内 素子"
       ]
     },
     "英語ＢⅠ": {
       "ID": "19F310003",
-      "科目種別": "一般",
+      "専門": false,
       "必修": true,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=0003&year=2019&lang=ja",
-      "履修": true,
+      "学修": false,
       "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=0003&year=2019&lang=ja",
       "先生": [
         "福地 和則"
       ]
     },
     "芸術": {
       "ID": "19F310004",
-      "科目種別": "一般",
+      "専門": false,
       "必修": false,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=0004&year=2019&lang=ja",
-      "履修": true,
+      "学修": false,
       "単位数": 1,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=0004&year=2019&lang=ja",
       "先生": [
         "横山 留美"
       ]
     },
     "基礎数学Ａ": {
       "ID": "19F310005",
-      "科目種別": "一般",
+      "専門": false,
       "必修": true,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=0006&year=2019&lang=ja",
-      "履修": true,
+      "学修": false,
       "単位数": 4,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=0006&year=2019&lang=ja",
       "先生": [
         "加賀谷 美佳"
       ]
     },
     "基礎数学Ｂ": {
       "ID": "19F310006",
-      "科目種別": "一般",
+      "専門": false,
       "必修": true,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=0007&year=2019&lang=ja",
-      "履修": true,
+      "学修": false,
       "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=0007&year=2019&lang=ja",
       "先生": [
         "兼下 英司"
       ]
     },
     "保健体育Ⅰ": {
       "ID": "19F310007",
-      "科目種別": "一般",
+      "専門": false,
       "必修": true,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=0008&year=2019&lang=ja",
-      "履修": true,
+      "学修": false,
       "単位数": 3,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=0008&year=2019&lang=ja",
       "先生": [
         "東畑 陽介",
         "兼村 裕介"
@@ -396,66 +396,66 @@
     },
     "国語Ⅰ": {
       "ID": "19F310008",
-      "科目種別": "一般",
+      "専門": false,
       "必修": true,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=0010&year=2019&lang=ja",
-      "履修": true,
+      "学修": false,
       "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=0010&year=2019&lang=ja",
       "先生": [
         "伊勢 英明"
       ]
     },
     "地理": {
       "ID": "19F310009",
-      "科目種別": "一般",
+      "専門": false,
       "必修": true,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=0011&year=2019&lang=ja",
-      "履修": true,
+      "学修": false,
       "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=0011&year=2019&lang=ja",
       "先生": [
         "矢澤 睦"
       ]
     },
     "基礎数学Ｃ": {
       "ID": "19F310010",
-      "科目種別": "一般",
+      "専門": false,
       "必修": true,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=0012&year=2019&lang=ja",
-      "履修": true,
+      "学修": false,
       "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=0012&year=2019&lang=ja",
       "先生": [
         "兼下 英司"
       ]
     },
     "化学Ⅰ": {
       "ID": "19F310011",
-      "科目種別": "一般",
+      "専門": false,
       "必修": true,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=0013&year=2019&lang=ja",
-      "履修": true,
+      "学修": false,
       "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=0013&year=2019&lang=ja",
       "先生": [
         "小松 京嗣"
       ]
     },
     "コンピュータリテラシ": {
       "ID": "19F310012",
-      "科目種別": "専門",
+      "専門": true,
       "必修": true,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=0005&year=2019&lang=ja",
-      "履修": true,
+      "学修": false,
       "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=0005&year=2019&lang=ja",
       "先生": [
         "岡本 圭史"
       ]
     },
     "総合工学基礎": {
       "ID": "19F310013",
-      "科目種別": "専門",
+      "専門": true,
       "必修": true,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=0009&year=2019&lang=ja",
-      "履修": true,
+      "学修": false,
       "単位数": 4,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=0009&year=2019&lang=ja",
       "先生": [
         "佐久間 実緒",
         "鈴木 順",
@@ -476,77 +476,77 @@
   "IS2": {
     "国語Ⅱ": {
       "ID": "19IS20014",
-      "科目種別": "一般",
+      "専門": false,
       "必修": true,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=0018&year=2018&lang=ja",
-      "履修": true,
+      "学修": false,
       "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=0018&year=2018&lang=ja",
       "先生": [
         "武田 拓"
       ]
     },
     "世界史": {
       "ID": "19IS20015",
-      "科目種別": "一般",
+      "専門": false,
       "必修": true,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=0019&year=2018&lang=ja",
-      "履修": true,
+      "学修": false,
       "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=0019&year=2018&lang=ja",
       "先生": [
         "笠松 直"
       ]
     },
     "英語ＡⅡ": {
       "ID": "19IS20016",
-      "科目種別": "一般",
+      "専門": false,
       "必修": true,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=0020&year=2018&lang=ja",
-      "履修": true,
+      "学修": false,
       "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=0020&year=2018&lang=ja",
       "先生": [
         "竹内 素子"
       ]
     },
     "英語ＢⅡ": {
       "ID": "19IS20017",
-      "科目種別": "一般",
+      "専門": false,
       "必修": true,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=0021&year=2018&lang=ja",
-      "履修": true,
+      "学修": false,
       "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=0021&year=2018&lang=ja",
       "先生": [
         "福地 和則"
       ]
     },
     "保健体育Ⅱ": {
       "ID": "19IS20018",
-      "科目種別": "一般",
+      "専門": false,
       "必修": true,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_code=1007&year=2018&lang=ja",
-      "履修": true,
+      "学修": false,
       "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_code=1007&year=2018&lang=ja",
       "先生": [
         "東畑 陽介"
       ]
     },
     "微分積分Ⅰ": {
       "ID": "19IS20019",
-      "科目種別": "一般",
+      "専門": false,
       "必修": true,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_code=1008&year=2018&lang=ja",
-      "履修": true,
+      "学修": false,
       "単位数": 4,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_code=1008&year=2018&lang=ja",
       "先生": [
         "下田 泰史"
       ]
     },
     "代数幾何": {
       "ID": "19IS20020",
-      "科目種別": "一般",
+      "専門": false,
       "必修": true,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_code=1009&year=2018&lang=ja",
-      "履修": true,
+      "学修": false,
       "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_code=1009&year=2018&lang=ja",
       "先生": [
         "下田 泰史",
         "佐藤 健太郎",
@@ -555,44 +555,44 @@
     },
     "物理Ⅰ": {
       "ID": "19IS20021",
-      "科目種別": "一般",
+      "専門": false,
       "必修": true,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_code=1010&year=2018&lang=ja",
-      "履修": true,
+      "学修": false,
       "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_code=1010&year=2018&lang=ja",
       "先生": [
         "穂坂 紀子"
       ]
     },
     "物理Ⅱ": {
       "ID": "19IS20022",
-      "科目種別": "一般",
+      "専門": false,
       "必修": true,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_code=1011&year=2018&lang=ja",
-      "履修": true,
+      "学修": false,
       "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_code=1011&year=2018&lang=ja",
       "先生": [
         "穂坂 紀子"
       ]
     },
     "化学Ⅱ": {
       "ID": "19IS20023",
-      "科目種別": "一般",
+      "専門": false,
       "必修": true,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_code=1012&year=2018&lang=ja",
-      "履修": true,
+      "学修": false,
       "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_code=1012&year=2018&lang=ja",
       "先生": [
         "小松 京嗣"
       ]
     },
     "プロジェクト実習": {
       "ID": "19IS20024",
-      "科目種別": "専門",
+      "専門": true,
       "必修": true,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=0014&year=2018&lang=ja",
-      "履修": true,
+      "学修": false,
       "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=0014&year=2018&lang=ja",
       "先生": [
         "鈴木 順",
         "白根 崇",
@@ -605,11 +605,11 @@
     },
     "電気回路基礎": {
       "ID": "19IS20027",
-      "科目種別": "専門",
+      "専門": true,
       "必修": true,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=0017&year=2018&lang=ja",
-      "履修": true,
+      "学修": false,
       "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=0017&year=2018&lang=ja",
       "先生": [
         "林 忠之",
         "馬場 一隆",
@@ -618,11 +618,11 @@
     },
     "プログラミング基礎": {
       "ID": "19IS20028",
-      "科目種別": "専門",
+      "専門": true,
       "必修": true,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=0022&year=2018&lang=ja",
-      "履修": true,
+      "学修": false,
       "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=0022&year=2018&lang=ja",
       "先生": [
         "園田 潤",
         "奧村 俊昭",
@@ -631,11 +631,11 @@
     },
     "ディジタル技術基礎": {
       "ID": "19IS20029",
-      "科目種別": "専門",
+      "専門": true,
       "必修": true,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=0023&year=2018&lang=ja",
-      "履修": true,
+      "学修": false,
       "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=0023&year=2018&lang=ja",
       "先生": [
         "平塚 眞彦",
         "今井 裕司",
@@ -646,77 +646,77 @@
   "IT2": {
     "国語Ⅱ": {
       "ID": "19IT20014",
-      "科目種別": "一般",
+      "専門": false,
       "必修": true,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=0018&year=2018&lang=ja",
-      "履修": true,
+      "学修": false,
       "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=0018&year=2018&lang=ja",
       "先生": [
         "武田 拓"
       ]
     },
     "世界史": {
       "ID": "19IT20015",
-      "科目種別": "一般",
+      "専門": false,
       "必修": true,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=0019&year=2018&lang=ja",
-      "履修": true,
+      "学修": false,
       "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=0019&year=2018&lang=ja",
       "先生": [
         "笠松 直"
       ]
     },
     "英語ＡⅡ": {
       "ID": "19IT20016",
-      "科目種別": "一般",
+      "専門": false,
       "必修": true,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=0020&year=2018&lang=ja",
-      "履修": true,
+      "学修": false,
       "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=0020&year=2018&lang=ja",
       "先生": [
         "竹内 素子"
       ]
     },
     "英語ＢⅡ": {
       "ID": "19IT20017",
-      "科目種別": "一般",
+      "専門": false,
       "必修": true,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=0021&year=2018&lang=ja",
-      "履修": true,
+      "学修": false,
       "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=0021&year=2018&lang=ja",
       "先生": [
         "福地 和則"
       ]
     },
     "保健体育Ⅱ": {
       "ID": "19IT20018",
-      "科目種別": "一般",
+      "専門": false,
       "必修": true,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_code=1007&year=2018&lang=ja",
-      "履修": true,
+      "学修": false,
       "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_code=1007&year=2018&lang=ja",
       "先生": [
         "東畑 陽介"
       ]
     },
     "微分積分Ⅰ": {
       "ID": "19IT20019",
-      "科目種別": "一般",
+      "専門": false,
       "必修": true,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_code=1008&year=2018&lang=ja",
-      "履修": true,
+      "学修": false,
       "単位数": 4,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_code=1008&year=2018&lang=ja",
       "先生": [
         "下田 泰史"
       ]
     },
     "代数幾何": {
       "ID": "19IT20020",
-      "科目種別": "一般",
+      "専門": false,
       "必修": true,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_code=1009&year=2018&lang=ja",
-      "履修": true,
+      "学修": false,
       "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_code=1009&year=2018&lang=ja",
       "先生": [
         "下田 泰史",
         "佐藤 健太郎",
@@ -725,44 +725,44 @@
     },
     "物理Ⅰ": {
       "ID": "19IT20021",
-      "科目種別": "一般",
+      "専門": false,
       "必修": true,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_code=1010&year=2018&lang=ja",
-      "履修": true,
+      "学修": false,
       "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_code=1010&year=2018&lang=ja",
       "先生": [
         "穂坂 紀子"
       ]
     },
     "物理Ⅱ": {
       "ID": "19IT20022",
-      "科目種別": "一般",
+      "専門": false,
       "必修": true,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_code=1011&year=2018&lang=ja",
-      "履修": true,
+      "学修": false,
       "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_code=1011&year=2018&lang=ja",
       "先生": [
         "穂坂 紀子"
       ]
     },
     "化学Ⅱ": {
       "ID": "19IT20023",
-      "科目種別": "一般",
+      "専門": false,
       "必修": true,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_code=1012&year=2018&lang=ja",
-      "履修": true,
+      "学修": false,
       "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_code=1012&year=2018&lang=ja",
       "先生": [
         "小松 京嗣"
       ]
     },
     "プロジェクト実習": {
       "ID": "19IT20025",
-      "科目種別": "専門",
+      "専門": true,
       "必修": true,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=0015&year=2018&lang=ja",
-      "履修": true,
+      "学修": false,
       "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=0015&year=2018&lang=ja",
       "先生": [
         "鈴木 順",
         "白根 崇",
@@ -776,11 +776,11 @@
     },
     "電気回路基礎": {
       "ID": "19IT20027",
-      "科目種別": "専門",
+      "専門": true,
       "必修": true,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=0017&year=2018&lang=ja",
-      "履修": true,
+      "学修": false,
       "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=0017&year=2018&lang=ja",
       "先生": [
         "林 忠之",
         "馬場 一隆",
@@ -789,11 +789,11 @@
     },
     "プログラミング基礎": {
       "ID": "19IT20028",
-      "科目種別": "専門",
+      "専門": true,
       "必修": true,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=0022&year=2018&lang=ja",
-      "履修": true,
+      "学修": false,
       "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=0022&year=2018&lang=ja",
       "先生": [
         "園田 潤",
         "奧村 俊昭",
@@ -802,11 +802,11 @@
     },
     "ディジタル技術基礎": {
       "ID": "19IT20029",
-      "科目種別": "専門",
+      "専門": true,
       "必修": true,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=0023&year=2018&lang=ja",
-      "履修": true,
+      "学修": false,
       "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=0023&year=2018&lang=ja",
       "先生": [
         "平塚 眞彦",
         "今井 裕司",
@@ -817,77 +817,77 @@
   "IE2": {
     "国語Ⅱ": {
       "ID": "19IE20014",
-      "科目種別": "一般",
+      "専門": false,
       "必修": true,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=0018&year=2018&lang=ja",
-      "履修": true,
+      "学修": false,
       "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=0018&year=2018&lang=ja",
       "先生": [
         "武田 拓"
       ]
     },
     "世界史": {
       "ID": "19IE20015",
-      "科目種別": "一般",
+      "専門": false,
       "必修": true,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=0019&year=2018&lang=ja",
-      "履修": true,
+      "学修": false,
       "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=0019&year=2018&lang=ja",
       "先生": [
         "笠松 直"
       ]
     },
     "英語ＡⅡ": {
       "ID": "19IE20016",
-      "科目種別": "一般",
+      "専門": false,
       "必修": true,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=0020&year=2018&lang=ja",
-      "履修": true,
+      "学修": false,
       "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=0020&year=2018&lang=ja",
       "先生": [
         "竹内 素子"
       ]
     },
     "英語ＢⅡ": {
       "ID": "19IE20017",
-      "科目種別": "一般",
+      "専門": false,
       "必修": true,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=0021&year=2018&lang=ja",
-      "履修": true,
+      "学修": false,
       "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=0021&year=2018&lang=ja",
       "先生": [
         "福地 和則"
       ]
     },
     "保健体育Ⅱ": {
       "ID": "19IE20018",
-      "科目種別": "一般",
+      "専門": false,
       "必修": true,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_code=1007&year=2018&lang=ja",
-      "履修": true,
+      "学修": false,
       "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_code=1007&year=2018&lang=ja",
       "先生": [
         "東畑 陽介"
       ]
     },
     "微分積分Ⅰ": {
       "ID": "19IE20019",
-      "科目種別": "一般",
+      "専門": false,
       "必修": true,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_code=1008&year=2018&lang=ja",
-      "履修": true,
+      "学修": false,
       "単位数": 4,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_code=1008&year=2018&lang=ja",
       "先生": [
         "下田 泰史"
       ]
     },
     "代数幾何": {
       "ID": "19IE20020",
-      "科目種別": "一般",
+      "専門": false,
       "必修": true,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_code=1009&year=2018&lang=ja",
-      "履修": true,
+      "学修": false,
       "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_code=1009&year=2018&lang=ja",
       "先生": [
         "下田 泰史",
         "佐藤 健太郎",
@@ -896,44 +896,44 @@
     },
     "物理Ⅰ": {
       "ID": "19IE20021",
-      "科目種別": "一般",
+      "専門": false,
       "必修": true,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_code=1010&year=2018&lang=ja",
-      "履修": true,
+      "学修": false,
       "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_code=1010&year=2018&lang=ja",
       "先生": [
         "穂坂 紀子"
       ]
     },
     "物理Ⅱ": {
       "ID": "19IE20022",
-      "科目種別": "一般",
+      "専門": false,
       "必修": true,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_code=1011&year=2018&lang=ja",
-      "履修": true,
+      "学修": false,
       "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_code=1011&year=2018&lang=ja",
       "先生": [
         "穂坂 紀子"
       ]
     },
     "化学Ⅱ": {
       "ID": "19IE20023",
-      "科目種別": "一般",
+      "専門": false,
       "必修": true,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_code=1012&year=2018&lang=ja",
-      "履修": true,
+      "学修": false,
       "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_code=1012&year=2018&lang=ja",
       "先生": [
         "小松 京嗣"
       ]
     },
     "プロジェクト実習": {
       "ID": "19IE20026",
-      "科目種別": "専門",
+      "専門": true,
       "必修": true,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=0016&year=2018&lang=ja",
-      "履修": true,
+      "学修": false,
       "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=0016&year=2018&lang=ja",
       "先生": [
         "鈴木 順",
         "白根 崇",
@@ -946,11 +946,11 @@
     },
     "電気回路基礎": {
       "ID": "19IE20027",
-      "科目種別": "専門",
+      "専門": true,
       "必修": true,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=0017&year=2018&lang=ja",
-      "履修": true,
+      "学修": false,
       "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=0017&year=2018&lang=ja",
       "先生": [
         "林 忠之",
         "馬場 一隆",
@@ -959,11 +959,11 @@
     },
     "プログラミング基礎": {
       "ID": "19IE20028",
-      "科目種別": "専門",
+      "専門": true,
       "必修": true,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=0022&year=2018&lang=ja",
-      "履修": true,
+      "学修": false,
       "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=0022&year=2018&lang=ja",
       "先生": [
         "園田 潤",
         "奧村 俊昭",
@@ -972,11 +972,11 @@
     },
     "ディジタル技術基礎": {
       "ID": "19IE20029",
-      "科目種別": "専門",
+      "専門": true,
       "必修": true,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=0023&year=2018&lang=ja",
-      "履修": true,
+      "学修": false,
       "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=0023&year=2018&lang=ja",
       "先生": [
         "平塚 眞彦",
         "今井 裕司",
@@ -987,66 +987,66 @@
   "IS3": {
     "国語Ⅲ": {
       "ID": "19IS30030",
-      "科目種別": "一般",
+      "専門": false,
       "必修": true,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1019&year=2017&lang=ja",
-      "履修": true,
+      "学修": false,
       "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1019&year=2017&lang=ja",
       "先生": [
         "武田 拓"
       ]
     },
     "英語AⅢ": {
       "ID": "19IS30031",
-      "科目種別": "一般",
+      "専門": false,
       "必修": true,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1020&year=2017&lang=ja",
-      "履修": true,
+      "学修": false,
       "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1020&year=2017&lang=ja",
       "先生": [
         "久保田 佳克"
       ]
     },
     "英語BⅢ": {
       "ID": "19IS30032",
-      "科目種別": "一般",
+      "専門": false,
       "必修": true,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1021&year=2017&lang=ja",
-      "履修": true,
+      "学修": false,
       "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1021&year=2017&lang=ja",
       "先生": [
         "矢澤 睦"
       ]
     },
     "保健体育Ⅲ": {
       "ID": "19IS30033",
-      "科目種別": "一般",
+      "専門": false,
       "必修": true,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1022&year=2017&lang=ja",
-      "履修": true,
+      "学修": false,
       "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1022&year=2017&lang=ja",
       "先生": [
         "兼村 裕介"
       ]
     },
     "微分積分Ⅱ": {
       "ID": "19IS30034",
-      "科目種別": "一般",
+      "専門": false,
       "必修": true,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1023&year=2017&lang=ja",
-      "履修": true,
+      "学修": false,
       "単位数": 4,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1023&year=2017&lang=ja",
       "先生": [
         "佐藤 健太郎"
       ]
     },
     "物理Ⅲ": {
       "ID": "19IS30035",
-      "科目種別": "一般",
+      "専門": false,
       "必修": true,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1024&year=2017&lang=ja",
-      "履修": true,
+      "学修": false,
       "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1024&year=2017&lang=ja",
       "先生": [
         "穂坂 紀子",
         "加賀谷 美佳",
@@ -1055,33 +1055,33 @@
     },
     "確率・統計": {
       "ID": "19IS30036",
-      "科目種別": "専門",
+      "専門": true,
       "必修": true,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1025&year=2017&lang=ja",
-      "履修": true,
+      "学修": false,
       "単位数": 1,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1025&year=2017&lang=ja",
       "先生": [
         "川崎 浩司"
       ]
     },
     "プログラミング": {
       "ID": "19IS30037",
-      "科目種別": "専門",
+      "専門": true,
       "必修": true,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1026&year=2017&lang=ja",
-      "履修": true,
+      "学修": false,
       "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1026&year=2017&lang=ja",
       "先生": [
         "奧村 俊昭"
       ]
     },
     "ネットワーク基礎": {
       "ID": "19IS30038",
-      "科目種別": "専門",
+      "専門": true,
       "必修": true,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1027&year=2017&lang=ja",
-      "履修": true,
+      "学修": false,
       "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1027&year=2017&lang=ja",
       "先生": [
         "小林 秀幸",
         "岩井 克全",
@@ -1090,11 +1090,11 @@
     },
     "コンピュータシステム基礎": {
       "ID": "19IS30039",
-      "科目種別": "専門",
+      "専門": true,
       "必修": true,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1028&year=2017&lang=ja",
-      "履修": true,
+      "学修": false,
       "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1028&year=2017&lang=ja",
       "先生": [
         "平塚 眞彦",
         "菅野 浩徳",
@@ -1103,11 +1103,11 @@
     },
     "マイクロコンピュータ基礎": {
       "ID": "19IS30040",
-      "科目種別": "専門",
+      "専門": true,
       "必修": true,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1029&year=2017&lang=ja",
-      "履修": true,
+      "学修": false,
       "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1029&year=2017&lang=ja",
       "先生": [
         "大場 譲",
         "力武 克彰"
@@ -1115,11 +1115,11 @@
     },
     "回路実習基礎": {
       "ID": "19IS30041",
-      "科目種別": "専門",
+      "専門": true,
       "必修": true,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1030&year=2017&lang=ja",
-      "履修": true,
+      "学修": false,
       "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1030&year=2017&lang=ja",
       "先生": [
         "那須 潜思",
         "竹島 久志",
@@ -1128,11 +1128,11 @@
     },
     "第Ⅰ類基礎実験": {
       "ID": "19IS30042",
-      "科目種別": "専門",
+      "専門": true,
       "必修": true,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1031&year=2017&lang=ja",
-      "履修": true,
+      "学修": false,
       "単位数": 4,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1031&year=2017&lang=ja",
       "先生": [
         "岡本 圭史",
         "白根 崇",
@@ -1146,22 +1146,22 @@
     },
     "応用プログラミング": {
       "ID": "19IS30043",
-      "科目種別": "専門",
+      "専門": true,
       "必修": true,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1032&year=2017&lang=ja",
-      "履修": false,
+      "学修": true,
       "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1032&year=2017&lang=ja",
       "先生": [
         "安藤 敏彦"
       ]
     },
     "電気回路": {
       "ID": "19IS30046",
-      "科目種別": "専門",
+      "専門": true,
       "必修": false,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1035&year=2017&lang=ja",
-      "履修": false,
+      "学修": true,
       "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1035&year=2017&lang=ja",
       "先生": [
         "早川 吉弘",
         "熊谷 和志",
@@ -1172,66 +1172,66 @@
   "IT3": {
     "国語Ⅲ": {
       "ID": "19IT30030",
-      "科目種別": "一般",
+      "専門": false,
       "必修": true,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1019&year=2017&lang=ja",
-      "履修": true,
+      "学修": false,
       "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1019&year=2017&lang=ja",
       "先生": [
         "武田 拓"
       ]
     },
     "英語AⅢ": {
       "ID": "19IT30031",
-      "科目種別": "一般",
+      "専門": false,
       "必修": true,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1020&year=2017&lang=ja",
-      "履修": true,
+      "学修": false,
       "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1020&year=2017&lang=ja",
       "先生": [
         "久保田 佳克"
       ]
     },
     "英語BⅢ": {
       "ID": "19IT30032",
-      "科目種別": "一般",
+      "専門": false,
       "必修": true,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1021&year=2017&lang=ja",
-      "履修": true,
+      "学修": false,
       "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1021&year=2017&lang=ja",
       "先生": [
         "矢澤 睦"
       ]
     },
     "保健体育Ⅲ": {
       "ID": "19IT30033",
-      "科目種別": "一般",
+      "専門": false,
       "必修": true,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1022&year=2017&lang=ja",
-      "履修": true,
+      "学修": false,
       "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1022&year=2017&lang=ja",
       "先生": [
         "兼村 裕介"
       ]
     },
     "微分積分Ⅱ": {
       "ID": "19IT30034",
-      "科目種別": "一般",
+      "専門": false,
       "必修": true,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1023&year=2017&lang=ja",
-      "履修": true,
+      "学修": false,
       "単位数": 4,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1023&year=2017&lang=ja",
       "先生": [
         "佐藤 健太郎"
       ]
     },
     "物理Ⅲ": {
       "ID": "19IT30035",
-      "科目種別": "一般",
+      "専門": false,
       "必修": true,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1024&year=2017&lang=ja",
-      "履修": true,
+      "学修": false,
       "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1024&year=2017&lang=ja",
       "先生": [
         "穂坂 紀子",
         "加賀谷 美佳",
@@ -1240,33 +1240,33 @@
     },
     "確率・統計": {
       "ID": "19IT30036",
-      "科目種別": "専門",
+      "専門": true,
       "必修": true,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1025&year=2017&lang=ja",
-      "履修": true,
+      "学修": false,
       "単位数": 1,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1025&year=2017&lang=ja",
       "先生": [
         "川崎 浩司"
       ]
     },
     "プログラミング": {
       "ID": "19IT30037",
-      "科目種別": "専門",
+      "専門": true,
       "必修": true,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1026&year=2017&lang=ja",
-      "履修": true,
+      "学修": false,
       "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1026&year=2017&lang=ja",
       "先生": [
         "奧村 俊昭"
       ]
     },
     "ネットワーク基礎": {
       "ID": "19IT30038",
-      "科目種別": "専門",
+      "専門": true,
       "必修": true,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1027&year=2017&lang=ja",
-      "履修": true,
+      "学修": false,
       "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1027&year=2017&lang=ja",
       "先生": [
         "小林 秀幸",
         "岩井 克全",
@@ -1275,11 +1275,11 @@
     },
     "コンピュータシステム基礎": {
       "ID": "19IT30039",
-      "科目種別": "専門",
+      "専門": true,
       "必修": true,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1028&year=2017&lang=ja",
-      "履修": true,
+      "学修": false,
       "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1028&year=2017&lang=ja",
       "先生": [
         "平塚 眞彦",
         "菅野 浩徳",
@@ -1288,11 +1288,11 @@
     },
     "マイクロコンピュータ基礎": {
       "ID": "19IT30040",
-      "科目種別": "専門",
+      "専門": true,
       "必修": true,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1029&year=2017&lang=ja",
-      "履修": true,
+      "学修": false,
       "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1029&year=2017&lang=ja",
       "先生": [
         "大場 譲",
         "力武 克彰"
@@ -1300,11 +1300,11 @@
     },
     "回路実習基礎": {
       "ID": "19IT30041",
-      "科目種別": "専門",
+      "専門": true,
       "必修": true,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1030&year=2017&lang=ja",
-      "履修": true,
+      "学修": false,
       "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1030&year=2017&lang=ja",
       "先生": [
         "那須 潜思",
         "竹島 久志",
@@ -1313,11 +1313,11 @@
     },
     "第Ⅰ類基礎実験": {
       "ID": "19IT30042",
-      "科目種別": "専門",
+      "専門": true,
       "必修": true,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1031&year=2017&lang=ja",
-      "履修": true,
+      "学修": false,
       "単位数": 4,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1031&year=2017&lang=ja",
       "先生": [
         "岡本 圭史",
         "白根 崇",
@@ -1331,22 +1331,22 @@
     },
     "応用プログラミング": {
       "ID": "19IT30044",
-      "科目種別": "専門",
+      "専門": true,
       "必修": true,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1033&year=2017&lang=ja",
-      "履修": false,
+      "学修": true,
       "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1033&year=2017&lang=ja",
       "先生": [
         "安藤 敏彦"
       ]
     },
     "電気回路": {
       "ID": "19IT30047",
-      "科目種別": "専門",
+      "専門": true,
       "必修": false,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1036&year=2017&lang=ja",
-      "履修": false,
+      "学修": true,
       "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1036&year=2017&lang=ja",
       "先生": [
         "早川 吉弘",
         "熊谷 和志",
@@ -1357,66 +1357,66 @@
   "IE3": {
     "国語Ⅲ": {
       "ID": "19IE30030",
-      "科目種別": "一般",
+      "専門": false,
       "必修": true,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1019&year=2017&lang=ja",
-      "履修": true,
+      "学修": false,
       "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1019&year=2017&lang=ja",
       "先生": [
         "武田 拓"
       ]
     },
     "英語AⅢ": {
       "ID": "19IE30031",
-      "科目種別": "一般",
+      "専門": false,
       "必修": true,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1020&year=2017&lang=ja",
-      "履修": true,
+      "学修": false,
       "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1020&year=2017&lang=ja",
       "先生": [
         "久保田 佳克"
       ]
     },
     "英語BⅢ": {
       "ID": "19IE30032",
-      "科目種別": "一般",
+      "専門": false,
       "必修": true,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1021&year=2017&lang=ja",
-      "履修": true,
+      "学修": false,
       "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1021&year=2017&lang=ja",
       "先生": [
         "矢澤 睦"
       ]
     },
     "保健体育Ⅲ": {
       "ID": "19IE30033",
-      "科目種別": "一般",
+      "専門": false,
       "必修": true,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1022&year=2017&lang=ja",
-      "履修": true,
+      "学修": false,
       "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1022&year=2017&lang=ja",
       "先生": [
         "兼村 裕介"
       ]
     },
     "微分積分Ⅱ": {
       "ID": "19IE30034",
-      "科目種別": "一般",
+      "専門": false,
       "必修": true,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1023&year=2017&lang=ja",
-      "履修": true,
+      "学修": false,
       "単位数": 4,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1023&year=2017&lang=ja",
       "先生": [
         "佐藤 健太郎"
       ]
     },
     "物理Ⅲ": {
       "ID": "19IE30035",
-      "科目種別": "一般",
+      "専門": false,
       "必修": true,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1024&year=2017&lang=ja",
-      "履修": true,
+      "学修": false,
       "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1024&year=2017&lang=ja",
       "先生": [
         "穂坂 紀子",
         "加賀谷 美佳",
@@ -1425,33 +1425,33 @@
     },
     "確率・統計": {
       "ID": "19IE30036",
-      "科目種別": "専門",
+      "専門": true,
       "必修": true,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1025&year=2017&lang=ja",
-      "履修": true,
+      "学修": false,
       "単位数": 1,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1025&year=2017&lang=ja",
       "先生": [
         "川崎 浩司"
       ]
     },
     "プログラミング": {
       "ID": "19IE30037",
-      "科目種別": "専門",
+      "専門": true,
       "必修": true,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1026&year=2017&lang=ja",
-      "履修": true,
+      "学修": false,
       "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1026&year=2017&lang=ja",
       "先生": [
         "奧村 俊昭"
       ]
     },
     "ネットワーク基礎": {
       "ID": "19IE30038",
-      "科目種別": "専門",
+      "専門": true,
       "必修": true,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1027&year=2017&lang=ja",
-      "履修": true,
+      "学修": false,
       "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1027&year=2017&lang=ja",
       "先生": [
         "小林 秀幸",
         "岩井 克全",
@@ -1460,11 +1460,11 @@
     },
     "コンピュータシステム基礎": {
       "ID": "19IE30039",
-      "科目種別": "専門",
+      "専門": true,
       "必修": true,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1028&year=2017&lang=ja",
-      "履修": true,
+      "学修": false,
       "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1028&year=2017&lang=ja",
       "先生": [
         "平塚 眞彦",
         "菅野 浩徳",
@@ -1473,11 +1473,11 @@
     },
     "マイクロコンピュータ基礎": {
       "ID": "19IE30040",
-      "科目種別": "専門",
+      "専門": true,
       "必修": true,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1029&year=2017&lang=ja",
-      "履修": true,
+      "学修": false,
       "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1029&year=2017&lang=ja",
       "先生": [
         "大場 譲",
         "力武 克彰"
@@ -1485,11 +1485,11 @@
     },
     "回路実習基礎": {
       "ID": "19IE30041",
-      "科目種別": "専門",
+      "専門": true,
       "必修": true,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1030&year=2017&lang=ja",
-      "履修": true,
+      "学修": false,
       "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1030&year=2017&lang=ja",
       "先生": [
         "那須 潜思",
         "竹島 久志",
@@ -1498,11 +1498,11 @@
     },
     "第Ⅰ類基礎実験": {
       "ID": "19IE30042",
-      "科目種別": "専門",
+      "専門": true,
       "必修": true,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1031&year=2017&lang=ja",
-      "履修": true,
+      "学修": false,
       "単位数": 4,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1031&year=2017&lang=ja",
       "先生": [
         "岡本 圭史",
         "白根 崇",
@@ -1516,22 +1516,22 @@
     },
     "応用プログラミング": {
       "ID": "19IE30045",
-      "科目種別": "専門",
+      "専門": true,
       "必修": false,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1034&year=2017&lang=ja",
-      "履修": false,
+      "学修": true,
       "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1034&year=2017&lang=ja",
       "先生": [
         "矢島 邦昭"
       ]
     },
     "電気回路": {
       "ID": "19IE30048",
-      "科目種別": "専門",
+      "専門": true,
       "必修": true,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1037&year=2017&lang=ja",
-      "履修": false,
+      "学修": true,
       "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1037&year=2017&lang=ja",
       "先生": [
         "早川 吉弘",
         "熊谷 和志",
@@ -1542,44 +1542,44 @@
   "IE4": {
     "工業所有権基礎": {
       "ID": "19IE40001",
-      "科目種別": "一般",
+      "専門": false,
       "必修": false,
-      "シラバスURL": "/Pages/PublicSyllabus?school_id=07&department_id=11&subject_id=1011&year=2016&lang=ja",
-      "履修": true,
+      "学修": false,
       "単位数": 1,
+      "シラバスURL": "/Pages/PublicSyllabus?school_id=07&department_id=11&subject_id=1011&year=2016&lang=ja",
       "先生": [
         "藤木 博"
       ]
     },
     "化学特論": {
       "ID": "19IE40002",
-      "科目種別": "一般",
+      "専門": false,
       "必修": false,
-      "シラバスURL": "/Pages/PublicSyllabus?school_id=07&department_id=11&subject_id=1012&year=2016&lang=ja",
-      "履修": false,
+      "学修": true,
       "単位数": 2,
+      "シラバスURL": "/Pages/PublicSyllabus?school_id=07&department_id=11&subject_id=1012&year=2016&lang=ja",
       "先生": [
         "小松 京嗣"
       ]
     },
     "フランス語": {
       "ID": "19IE40003",
-      "科目種別": "一般",
+      "専門": false,
       "必修": false,
-      "シラバスURL": "/Pages/PublicSyllabus?school_id=07&department_id=11&subject_id=1017&year=2016&lang=ja",
-      "履修": true,
+      "学修": false,
       "単位数": 2,
+      "シラバスURL": "/Pages/PublicSyllabus?school_id=07&department_id=11&subject_id=1017&year=2016&lang=ja",
       "先生": [
         "SARDE Isabelle"
       ]
     },
     "スポーツ": {
       "ID": "19IE40004",
-      "科目種別": "一般",
+      "専門": false,
       "必修": false,
-      "シラバスURL": "/Pages/PublicSyllabus?school_id=07&department_id=11&subject_id=1018&year=2016&lang=ja",
-      "履修": true,
+      "学修": false,
       "単位数": 2,
+      "シラバスURL": "/Pages/PublicSyllabus?school_id=07&department_id=11&subject_id=1018&year=2016&lang=ja",
       "先生": [
         "兼村 裕介",
         "東畑 陽介"
@@ -1587,110 +1587,110 @@
     },
     "人間科学特論": {
       "ID": "19IE40005",
-      "科目種別": "一般",
+      "専門": false,
       "必修": false,
-      "シラバスURL": "/Pages/PublicSyllabus?school_id=07&department_id=11&subject_id=1019&year=2016&lang=ja",
-      "履修": false,
+      "学修": true,
       "単位数": 2,
+      "シラバスURL": "/Pages/PublicSyllabus?school_id=07&department_id=11&subject_id=1019&year=2016&lang=ja",
       "先生": [
         "笠松 直"
       ]
     },
     "総合英語Ⅰ": {
       "ID": "19IE40006",
-      "科目種別": "一般",
+      "専門": false,
       "必修": false,
-      "シラバスURL": "/Pages/PublicSyllabus?school_id=07&department_id=11&subject_id=1020&year=2016&lang=ja",
-      "履修": true,
+      "学修": false,
       "単位数": 2,
+      "シラバスURL": "/Pages/PublicSyllabus?school_id=07&department_id=11&subject_id=1020&year=2016&lang=ja",
       "先生": [
         "ワーナー川原 ジェシー"
       ]
     },
     "総合英語Ⅱ": {
       "ID": "19IE40007",
-      "科目種別": "一般",
+      "専門": false,
       "必修": false,
-      "シラバスURL": "/Pages/PublicSyllabus?school_id=07&department_id=11&subject_id=1021&year=2016&lang=ja",
-      "履修": true,
+      "学修": false,
       "単位数": 2,
+      "シラバスURL": "/Pages/PublicSyllabus?school_id=07&department_id=11&subject_id=1021&year=2016&lang=ja",
       "先生": [
         "ワーナー川原 ジェシー"
       ]
     },
     "フーリエ解析": {
       "ID": "19IE40001",
-      "科目種別": "専門",
+      "専門": true,
       "必修": false,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=09&subject_id=0030&year=2016&lang=ja",
-      "履修": false,
+      "学修": true,
       "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=09&subject_id=0030&year=2016&lang=ja",
       "先生": [
         "長谷部 一気"
       ]
     },
     "回路工学": {
       "ID": "19IE40002",
-      "科目種別": "専門",
+      "専門": true,
       "必修": true,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=09&subject_id=0062&year=2016&lang=ja",
-      "履修": false,
+      "学修": true,
       "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=09&subject_id=0062&year=2016&lang=ja",
       "先生": [
         "馬場 一隆"
       ]
     },
     "電子デバイスⅠ": {
       "ID": "19IE40003",
-      "科目種別": "専門",
+      "専門": true,
       "必修": false,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=09&subject_id=0063&year=2016&lang=ja",
-      "履修": false,
+      "学修": true,
       "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=09&subject_id=0063&year=2016&lang=ja",
       "先生": [
         "柏葉 安宏"
       ]
     },
     "制御工学": {
       "ID": "19IE40004",
-      "科目種別": "専門",
+      "専門": true,
       "必修": false,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=09&subject_id=0064&year=2016&lang=ja",
-      "履修": false,
+      "学修": true,
       "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=09&subject_id=0064&year=2016&lang=ja",
       "先生": [
         "大場 譲"
       ]
     },
     "電子機器設計基礎": {
       "ID": "19IE40005",
-      "科目種別": "専門",
+      "専門": true,
       "必修": false,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=09&subject_id=0065&year=2016&lang=ja",
-      "履修": true,
+      "学修": false,
       "単位数": 1,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=09&subject_id=0065&year=2016&lang=ja",
       "先生": [
         "大泉 哲哉"
       ]
     },
     "電子物性基礎": {
       "ID": "19IE40006",
-      "科目種別": "専門",
+      "専門": true,
       "必修": false,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=09&subject_id=0067&year=2016&lang=ja",
-      "履修": false,
+      "学修": true,
       "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=09&subject_id=0067&year=2016&lang=ja",
       "先生": [
         "枝松 圭一"
       ]
     },
     "マイクロコンピュータⅠ": {
       "ID": "19IE40007",
-      "科目種別": "専門",
+      "専門": true,
       "必修": true,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=09&subject_id=0069&year=2016&lang=ja",
-      "履修": true,
+      "学修": false,
       "単位数": 1,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=09&subject_id=0069&year=2016&lang=ja",
       "先生": [
         "與那嶺 尚弘",
         "鈴木 順"
@@ -1698,11 +1698,11 @@
     },
     "マイクロコンピュータⅡ": {
       "ID": "19IE40008",
-      "科目種別": "専門",
+      "専門": true,
       "必修": false,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=09&subject_id=0070&year=2016&lang=ja",
-      "履修": true,
+      "学修": false,
       "単位数": 1,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=09&subject_id=0070&year=2016&lang=ja",
       "先生": [
         "與那嶺 尚弘",
         "鈴木 順"
@@ -1710,22 +1710,22 @@
     },
     "機構学": {
       "ID": "19IE40009",
-      "科目種別": "専門",
+      "専門": true,
       "必修": false,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=09&subject_id=0073&year=2016&lang=ja",
-      "履修": false,
+      "学修": true,
       "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=09&subject_id=0073&year=2016&lang=ja",
       "先生": [
         "大泉 哲哉"
       ]
     },
     "知能エレクトロニクス製作": {
       "ID": "19IE40011",
-      "科目種別": "専門",
+      "専門": true,
       "必修": true,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=09&subject_id=0076&year=2016&lang=ja",
-      "履修": true,
+      "学修": false,
       "単位数": 3,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=09&subject_id=0076&year=2016&lang=ja",
       "先生": [
         "川崎 浩司",
         "佐久間 実緒",
@@ -1736,11 +1736,11 @@
     },
     "知能エレクトロニクス実験Ⅰ": {
       "ID": "19IE40012",
-      "科目種別": "専門",
+      "専門": true,
       "必修": true,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=09&subject_id=0077&year=2016&lang=ja",
-      "履修": true,
+      "学修": false,
       "単位数": 3,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=09&subject_id=0077&year=2016&lang=ja",
       "先生": [
         "大場 譲",
         "柏葉 安宏",
@@ -1758,66 +1758,66 @@
     },
     "電磁気学A": {
       "ID": "19IE40013",
-      "科目種別": "専門",
+      "専門": true,
       "必修": true,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=09&subject_id=0078&year=2016&lang=ja",
-      "履修": false,
+      "学修": true,
       "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=09&subject_id=0078&year=2016&lang=ja",
       "先生": [
         "園田 潤"
       ]
     },
     "電磁気学B": {
       "ID": "19IE40014",
-      "科目種別": "専門",
+      "専門": true,
       "必修": true,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=09&subject_id=0079&year=2016&lang=ja",
-      "履修": false,
+      "学修": true,
       "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=09&subject_id=0079&year=2016&lang=ja",
       "先生": [
         "園田 潤"
       ]
     },
     "電子回路A": {
       "ID": "19IE40015",
-      "科目種別": "専門",
+      "専門": true,
       "必修": true,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=09&subject_id=0080&year=2016&lang=ja",
-      "履修": false,
+      "学修": true,
       "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=09&subject_id=0080&year=2016&lang=ja",
       "先生": [
         "林 忠之"
       ]
     },
     "電子回路B": {
       "ID": "19IE40016",
-      "科目種別": "専門",
+      "専門": true,
       "必修": true,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=09&subject_id=0081&year=2016&lang=ja",
-      "履修": false,
+      "学修": true,
       "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=09&subject_id=0081&year=2016&lang=ja",
       "先生": [
         "林 忠之"
       ]
     },
     "電子材料": {
       "ID": "19IE40017",
-      "科目種別": "専門",
+      "専門": true,
       "必修": false,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=09&subject_id=0082&year=2016&lang=ja",
-      "履修": false,
+      "学修": true,
       "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=09&subject_id=0082&year=2016&lang=ja",
       "先生": [
         "川崎 浩司"
       ]
     },
     "応用数学": {
       "ID": "19IE40018",
-      "科目種別": "専門",
+      "専門": true,
       "必修": false,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=09&subject_id=0083&year=2016&lang=ja",
-      "履修": false,
+      "学修": true,
       "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=09&subject_id=0083&year=2016&lang=ja",
       "先生": [
         "藤木 なほみ"
       ]
@@ -1826,44 +1826,44 @@
   "IS4": {
     "工業所有権基礎": {
       "ID": "19IE40001",
-      "科目種別": "一般",
+      "専門": false,
       "必修": false,
-      "シラバスURL": "/Pages/PublicSyllabus?school_id=07&department_id=11&subject_id=1011&year=2016&lang=ja",
-      "履修": true,
+      "学修": false,
       "単位数": 1,
+      "シラバスURL": "/Pages/PublicSyllabus?school_id=07&department_id=11&subject_id=1011&year=2016&lang=ja",
       "先生": [
         "藤木 博"
       ]
     },
     "化学特論": {
       "ID": "19IE40002",
-      "科目種別": "一般",
+      "専門": false,
       "必修": false,
-      "シラバスURL": "/Pages/PublicSyllabus?school_id=07&department_id=11&subject_id=1012&year=2016&lang=ja",
-      "履修": false,
+      "学修": true,
       "単位数": 2,
+      "シラバスURL": "/Pages/PublicSyllabus?school_id=07&department_id=11&subject_id=1012&year=2016&lang=ja",
       "先生": [
         "小松 京嗣"
       ]
     },
     "フランス語": {
       "ID": "19IE40003",
-      "科目種別": "一般",
+      "専門": false,
       "必修": false,
-      "シラバスURL": "/Pages/PublicSyllabus?school_id=07&department_id=11&subject_id=1017&year=2016&lang=ja",
-      "履修": true,
+      "学修": false,
       "単位数": 2,
+      "シラバスURL": "/Pages/PublicSyllabus?school_id=07&department_id=11&subject_id=1017&year=2016&lang=ja",
       "先生": [
         "SARDE Isabelle"
       ]
     },
     "スポーツ": {
       "ID": "19IE40004",
-      "科目種別": "一般",
+      "専門": false,
       "必修": false,
-      "シラバスURL": "/Pages/PublicSyllabus?school_id=07&department_id=11&subject_id=1018&year=2016&lang=ja",
-      "履修": true,
+      "学修": false,
       "単位数": 2,
+      "シラバスURL": "/Pages/PublicSyllabus?school_id=07&department_id=11&subject_id=1018&year=2016&lang=ja",
       "先生": [
         "兼村 裕介",
         "東畑 陽介"
@@ -1871,55 +1871,55 @@
     },
     "人間科学特論": {
       "ID": "19IE40005",
-      "科目種別": "一般",
+      "専門": false,
       "必修": false,
-      "シラバスURL": "/Pages/PublicSyllabus?school_id=07&department_id=11&subject_id=1019&year=2016&lang=ja",
-      "履修": false,
+      "学修": true,
       "単位数": 2,
+      "シラバスURL": "/Pages/PublicSyllabus?school_id=07&department_id=11&subject_id=1019&year=2016&lang=ja",
       "先生": [
         "笠松 直"
       ]
     },
     "総合英語Ⅰ": {
       "ID": "19IE40006",
-      "科目種別": "一般",
+      "専門": false,
       "必修": false,
-      "シラバスURL": "/Pages/PublicSyllabus?school_id=07&department_id=11&subject_id=1020&year=2016&lang=ja",
-      "履修": true,
+      "学修": false,
       "単位数": 2,
+      "シラバスURL": "/Pages/PublicSyllabus?school_id=07&department_id=11&subject_id=1020&year=2016&lang=ja",
       "先生": [
         "ワーナー川原 ジェシー"
       ]
     },
     "総合英語Ⅱ": {
       "ID": "19IE40007",
-      "科目種別": "一般",
+      "専門": false,
       "必修": false,
-      "シラバスURL": "/Pages/PublicSyllabus?school_id=07&department_id=11&subject_id=1021&year=2016&lang=ja",
-      "履修": true,
+      "学修": false,
       "単位数": 2,
+      "シラバスURL": "/Pages/PublicSyllabus?school_id=07&department_id=11&subject_id=1021&year=2016&lang=ja",
       "先生": [
         "ワーナー川原 ジェシー"
       ]
     },
     "ソフトウェア工学基礎": {
       "ID": "19IE40001",
-      "科目種別": "専門",
+      "専門": true,
       "必修": true,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=08&subject_id=0063&year=2016&lang=ja",
-      "履修": false,
+      "学修": true,
       "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=08&subject_id=0063&year=2016&lang=ja",
       "先生": [
         "高橋 晶子"
       ]
     },
     "ソフトウェア分析設計": {
       "ID": "19IE40002",
-      "科目種別": "専門",
+      "専門": true,
       "必修": false,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=08&subject_id=0070&year=2016&lang=ja",
-      "履修": true,
+      "学修": false,
       "単位数": 1,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=08&subject_id=0070&year=2016&lang=ja",
       "先生": [
         "安藤 敏彦",
         "岡本 圭史"
@@ -1927,22 +1927,22 @@
     },
     "情報数学": {
       "ID": "19IE40003",
-      "科目種別": "専門",
+      "専門": true,
       "必修": true,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=08&subject_id=0073&year=2016&lang=ja",
-      "履修": false,
+      "学修": true,
       "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=08&subject_id=0073&year=2016&lang=ja",
       "先生": [
         "岡本 圭史"
       ]
     },
     "情報システム実験Ⅰ": {
       "ID": "19IE40005",
-      "科目種別": "専門",
+      "専門": true,
       "必修": true,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=08&subject_id=0079&year=2016&lang=ja",
-      "履修": true,
+      "学修": false,
       "単位数": 5,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=08&subject_id=0079&year=2016&lang=ja",
       "先生": [
         "安藤 敏彦",
         "岡本 圭史",
@@ -1960,55 +1960,55 @@
     },
     "線形代数": {
       "ID": "19IE40006",
-      "科目種別": "専門",
+      "専門": true,
       "必修": true,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=08&subject_id=0080&year=2016&lang=ja",
-      "履修": false,
+      "学修": true,
       "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=08&subject_id=0080&year=2016&lang=ja",
       "先生": [
         "長谷部 一気"
       ]
     },
     "複素関数論": {
       "ID": "19IE40007",
-      "科目種別": "専門",
+      "専門": true,
       "必修": true,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=08&subject_id=0081&year=2016&lang=ja",
-      "履修": false,
+      "学修": true,
       "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=08&subject_id=0081&year=2016&lang=ja",
       "先生": [
         "長谷部 一気"
       ]
     },
     "フーリエ解析": {
       "ID": "19IE40008",
-      "科目種別": "専門",
+      "専門": true,
       "必修": true,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=08&subject_id=0082&year=2016&lang=ja",
-      "履修": false,
+      "学修": true,
       "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=08&subject_id=0082&year=2016&lang=ja",
       "先生": [
         "長谷部 一気"
       ]
     },
     "アナログ電子回路Ⅱ": {
       "ID": "19IE40009",
-      "科目種別": "専門",
+      "専門": true,
       "必修": true,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=08&subject_id=0083&year=2016&lang=ja",
-      "履修": true,
+      "学修": false,
       "単位数": 1,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=08&subject_id=0083&year=2016&lang=ja",
       "先生": [
         "白根 崇"
       ]
     },
     "応用プログラミングA": {
       "ID": "19IE40010",
-      "科目種別": "専門",
+      "専門": true,
       "必修": true,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=08&subject_id=0084&year=2016&lang=ja",
-      "履修": true,
+      "学修": false,
       "単位数": 1,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=08&subject_id=0084&year=2016&lang=ja",
       "先生": [
         "張 暁勇",
         "高橋 晶子"
@@ -2016,11 +2016,11 @@
     },
     "組込みシステムA": {
       "ID": "19IE40011",
-      "科目種別": "専門",
+      "専門": true,
       "必修": true,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=08&subject_id=0085&year=2016&lang=ja",
-      "履修": false,
+      "学修": true,
       "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=08&subject_id=0085&year=2016&lang=ja",
       "先生": [
         "小林 秀幸",
         "力武 克彰"
@@ -2028,33 +2028,33 @@
     },
     "情報通信ネットワーク": {
       "ID": "19IE40012",
-      "科目種別": "専門",
+      "専門": true,
       "必修": true,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=08&subject_id=0086&year=2016&lang=ja",
-      "履修": false,
+      "学修": true,
       "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=08&subject_id=0086&year=2016&lang=ja",
       "先生": [
         "衣川 昌宏"
       ]
     },
     "情報システム演習": {
       "ID": "19IE40013",
-      "科目種別": "専門",
+      "専門": true,
       "必修": false,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=08&subject_id=0087&year=2016&lang=ja",
-      "履修": true,
+      "学修": false,
       "単位数": 1,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=08&subject_id=0087&year=2016&lang=ja",
       "先生": [
         "竹島 久志"
       ]
     },
     "電磁気学": {
       "ID": "19IE40014",
-      "科目種別": "専門",
+      "専門": true,
       "必修": false,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=08&subject_id=0088&year=2016&lang=ja",
-      "履修": false,
+      "学修": true,
       "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=08&subject_id=0088&year=2016&lang=ja",
       "先生": [
         "白根 崇",
         "熊谷 和志"
@@ -2062,11 +2062,11 @@
     },
     "応用プログラミングB": {
       "ID": "19IE40015",
-      "科目種別": "専門",
+      "専門": true,
       "必修": false,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=08&subject_id=0089&year=2016&lang=ja",
-      "履修": true,
+      "学修": false,
       "単位数": 1,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=08&subject_id=0089&year=2016&lang=ja",
       "先生": [
         "張 暁勇",
         "竹島 久志"
@@ -2074,11 +2074,11 @@
     },
     "組込みシステム実習": {
       "ID": "19IE40016",
-      "科目種別": "専門",
+      "専門": true,
       "必修": false,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=08&subject_id=0090&year=2016&lang=ja",
-      "履修": true,
+      "学修": false,
       "単位数": 1,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=08&subject_id=0090&year=2016&lang=ja",
       "先生": [
         "小林 秀幸",
         "力武 克彰"
@@ -2086,22 +2086,22 @@
     },
     "ネットワークプログラミング": {
       "ID": "19IE40017",
-      "科目種別": "専門",
+      "専門": true,
       "必修": false,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=08&subject_id=0091&year=2016&lang=ja",
-      "履修": false,
+      "学修": true,
       "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=08&subject_id=0091&year=2016&lang=ja",
       "先生": [
         "小林 秀幸"
       ]
     },
     "人工知能": {
       "ID": "19IE40018",
-      "科目種別": "専門",
+      "専門": true,
       "必修": false,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=08&subject_id=0092&year=2016&lang=ja",
-      "履修": false,
+      "学修": true,
       "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=08&subject_id=0092&year=2016&lang=ja",
       "先生": [
         "高橋 晶子"
       ]
@@ -2110,44 +2110,44 @@
   "IN4": {
     "工業所有権基礎": {
       "ID": "19IE40001",
-      "科目種別": "一般",
+      "専門": false,
       "必修": false,
-      "シラバスURL": "/Pages/PublicSyllabus?school_id=07&department_id=11&subject_id=1011&year=2016&lang=ja",
-      "履修": true,
+      "学修": false,
       "単位数": 1,
+      "シラバスURL": "/Pages/PublicSyllabus?school_id=07&department_id=11&subject_id=1011&year=2016&lang=ja",
       "先生": [
         "藤木 博"
       ]
     },
     "化学特論": {
       "ID": "19IE40002",
-      "科目種別": "一般",
+      "専門": false,
       "必修": false,
-      "シラバスURL": "/Pages/PublicSyllabus?school_id=07&department_id=11&subject_id=1012&year=2016&lang=ja",
-      "履修": false,
+      "学修": true,
       "単位数": 2,
+      "シラバスURL": "/Pages/PublicSyllabus?school_id=07&department_id=11&subject_id=1012&year=2016&lang=ja",
       "先生": [
         "小松 京嗣"
       ]
     },
     "フランス語": {
       "ID": "19IE40003",
-      "科目種別": "一般",
+      "専門": false,
       "必修": false,
-      "シラバスURL": "/Pages/PublicSyllabus?school_id=07&department_id=11&subject_id=1017&year=2016&lang=ja",
-      "履修": true,
+      "学修": false,
       "単位数": 2,
+      "シラバスURL": "/Pages/PublicSyllabus?school_id=07&department_id=11&subject_id=1017&year=2016&lang=ja",
       "先生": [
         "SARDE Isabelle"
       ]
     },
     "スポーツ": {
       "ID": "19IE40004",
-      "科目種別": "一般",
+      "専門": false,
       "必修": false,
-      "シラバスURL": "/Pages/PublicSyllabus?school_id=07&department_id=11&subject_id=1018&year=2016&lang=ja",
-      "履修": true,
+      "学修": false,
       "単位数": 2,
+      "シラバスURL": "/Pages/PublicSyllabus?school_id=07&department_id=11&subject_id=1018&year=2016&lang=ja",
       "先生": [
         "兼村 裕介",
         "東畑 陽介"
@@ -2155,77 +2155,77 @@
     },
     "人間科学特論": {
       "ID": "19IE40005",
-      "科目種別": "一般",
+      "専門": false,
       "必修": false,
-      "シラバスURL": "/Pages/PublicSyllabus?school_id=07&department_id=11&subject_id=1019&year=2016&lang=ja",
-      "履修": false,
+      "学修": true,
       "単位数": 2,
+      "シラバスURL": "/Pages/PublicSyllabus?school_id=07&department_id=11&subject_id=1019&year=2016&lang=ja",
       "先生": [
         "笠松 直"
       ]
     },
     "総合英語Ⅰ": {
       "ID": "19IE40006",
-      "科目種別": "一般",
+      "専門": false,
       "必修": false,
-      "シラバスURL": "/Pages/PublicSyllabus?school_id=07&department_id=11&subject_id=1020&year=2016&lang=ja",
-      "履修": true,
+      "学修": false,
       "単位数": 2,
+      "シラバスURL": "/Pages/PublicSyllabus?school_id=07&department_id=11&subject_id=1020&year=2016&lang=ja",
       "先生": [
         "ワーナー川原 ジェシー"
       ]
     },
     "総合英語Ⅱ": {
       "ID": "19IE40007",
-      "科目種別": "一般",
+      "専門": false,
       "必修": false,
-      "シラバスURL": "/Pages/PublicSyllabus?school_id=07&department_id=11&subject_id=1021&year=2016&lang=ja",
-      "履修": true,
+      "学修": false,
       "単位数": 2,
+      "シラバスURL": "/Pages/PublicSyllabus?school_id=07&department_id=11&subject_id=1021&year=2016&lang=ja",
       "先生": [
         "ワーナー川原 ジェシー"
       ]
     },
     "電磁波工学Ⅰ": {
       "ID": "19IE40001",
-      "科目種別": "専門",
+      "専門": true,
       "必修": false,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=07&subject_id=0052&year=2016&lang=ja",
-      "履修": false,
+      "学修": true,
       "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=07&subject_id=0052&year=2016&lang=ja",
       "先生": [
         "鈴木 哲"
       ]
     },
     "電子回路": {
       "ID": "19IE40002",
-      "科目種別": "専門",
+      "専門": true,
       "必修": true,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=07&subject_id=0053&year=2016&lang=ja",
-      "履修": false,
+      "学修": true,
       "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=07&subject_id=0053&year=2016&lang=ja",
       "先生": [
         "今井 裕司"
       ]
     },
     "高周波回路": {
       "ID": "19IE40003",
-      "科目種別": "専門",
+      "専門": true,
       "必修": false,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=07&subject_id=0054&year=2016&lang=ja",
-      "履修": true,
+      "学修": false,
       "単位数": 1,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=07&subject_id=0054&year=2016&lang=ja",
       "先生": [
         "鈴木 哲"
       ]
     },
     "通信工学実験": {
       "ID": "19IE40004",
-      "科目種別": "専門",
+      "専門": true,
       "必修": true,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=07&subject_id=0055&year=2016&lang=ja",
-      "履修": true,
+      "学修": false,
       "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=07&subject_id=0055&year=2016&lang=ja",
       "先生": [
         "今井 裕司",
         "岩井 克全",
@@ -2237,22 +2237,22 @@
     },
     "電磁気学": {
       "ID": "19IE40005",
-      "科目種別": "専門",
+      "専門": true,
       "必修": true,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=07&subject_id=0056&year=2016&lang=ja",
-      "履修": false,
+      "学修": true,
       "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=07&subject_id=0056&year=2016&lang=ja",
       "先生": [
         "岩井 克全"
       ]
     },
     "情報ネットワーク実験Ⅰ": {
       "ID": "19IE40007",
-      "科目種別": "専門",
+      "専門": true,
       "必修": true,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=07&subject_id=0058&year=2016&lang=ja",
-      "履修": true,
+      "学修": false,
       "単位数": 3,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=07&subject_id=0058&year=2016&lang=ja",
       "先生": [
         "今井 裕司",
         "岩井 克全",
@@ -2271,11 +2271,11 @@
     },
     "情報ネットワーク基礎実験": {
       "ID": "19IE40008",
-      "科目種別": "専門",
+      "専門": true,
       "必修": true,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=07&subject_id=0059&year=2016&lang=ja",
-      "履修": true,
+      "学修": false,
       "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=07&subject_id=0059&year=2016&lang=ja",
       "先生": [
         "今井 裕司",
         "岩井 克全",
@@ -2294,22 +2294,22 @@
     },
     "情報セキュリティ基礎": {
       "ID": "19IE40009",
-      "科目種別": "専門",
+      "専門": true,
       "必修": false,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=07&subject_id=0060&year=2016&lang=ja",
-      "履修": false,
+      "学修": true,
       "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=07&subject_id=0060&year=2016&lang=ja",
       "先生": [
         "速水 健一"
       ]
     },
     "ネットワーキング技術Ⅰ": {
       "ID": "19IE40010",
-      "科目種別": "専門",
+      "専門": true,
       "必修": true,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=07&subject_id=0061&year=2016&lang=ja",
-      "履修": false,
+      "学修": true,
       "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=07&subject_id=0061&year=2016&lang=ja",
       "先生": [
         "岩井 克全",
         "千葉 慎二"
@@ -2317,11 +2317,11 @@
     },
     "ネットワーキング技術Ⅱ": {
       "ID": "19IE40011",
-      "科目種別": "専門",
+      "専門": true,
       "必修": true,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=07&subject_id=0062&year=2016&lang=ja",
-      "履修": false,
+      "学修": true,
       "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=07&subject_id=0062&year=2016&lang=ja",
       "先生": [
         "衣川 昌宏",
         "速水 健一"
@@ -2329,66 +2329,66 @@
     },
     "ICTシステム": {
       "ID": "19IE40012",
-      "科目種別": "専門",
+      "専門": true,
       "必修": false,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=07&subject_id=0063&year=2016&lang=ja",
-      "履修": false,
+      "学修": true,
       "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=07&subject_id=0063&year=2016&lang=ja",
       "先生": [
         "千葉 慎二"
       ]
     },
     "情報理論": {
       "ID": "19IE40013",
-      "科目種別": "専門",
+      "専門": true,
       "必修": false,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=07&subject_id=0064&year=2016&lang=ja",
-      "履修": true,
+      "学修": false,
       "単位数": 1,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=07&subject_id=0064&year=2016&lang=ja",
       "先生": [
         "佐藤 公男"
       ]
     },
     "ネットワーク理論": {
       "ID": "19IE40014",
-      "科目種別": "専門",
+      "専門": true,
       "必修": false,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=07&subject_id=0065&year=2016&lang=ja",
-      "履修": false,
+      "学修": true,
       "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=07&subject_id=0065&year=2016&lang=ja",
       "先生": [
         "佐藤 公男"
       ]
     },
     "マルチメディア情報": {
       "ID": "19IE40015",
-      "科目種別": "専門",
+      "専門": true,
       "必修": false,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=07&subject_id=0066&year=2016&lang=ja",
-      "履修": false,
+      "学修": true,
       "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=07&subject_id=0066&year=2016&lang=ja",
       "先生": [
         "奧村 俊昭"
       ]
     },
     "データ管理技術": {
       "ID": "19IE40016",
-      "科目種別": "専門",
+      "専門": true,
       "必修": false,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=07&subject_id=0067&year=2016&lang=ja",
-      "履修": true,
+      "学修": false,
       "単位数": 1,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=07&subject_id=0067&year=2016&lang=ja",
       "先生": [
         "藤原 和彦"
       ]
     },
     "ネットワークプログラミング": {
       "ID": "19IE40017",
-      "科目種別": "専門",
+      "専門": true,
       "必修": false,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=07&subject_id=0068&year=2016&lang=ja",
-      "履修": false,
+      "学修": true,
       "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=07&subject_id=0068&year=2016&lang=ja",
       "先生": [
         "速水 健一",
         "矢島 邦昭"
@@ -2396,33 +2396,33 @@
     },
     "コンピュータシステム": {
       "ID": "19IE40018",
-      "科目種別": "専門",
+      "専門": true,
       "必修": true,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=07&subject_id=0069&year=2016&lang=ja",
-      "履修": false,
+      "学修": true,
       "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=07&subject_id=0069&year=2016&lang=ja",
       "先生": [
         "奧村 俊昭"
       ]
     },
     "フーリエ解析": {
       "ID": "19IE40019",
-      "科目種別": "専門",
+      "専門": true,
       "必修": true,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=07&subject_id=0070&year=2016&lang=ja",
-      "履修": false,
+      "学修": true,
       "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=07&subject_id=0070&year=2016&lang=ja",
       "先生": [
         "長谷部 一気"
       ]
     },
     "複素関数論": {
       "ID": "19IE40020",
-      "科目種別": "専門",
+      "専門": true,
       "必修": true,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=07&subject_id=0071&year=2016&lang=ja",
-      "履修": false,
+      "学修": true,
       "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=07&subject_id=0071&year=2016&lang=ja",
       "先生": [
         "長谷部 一気"
       ]
@@ -2431,44 +2431,44 @@
   "IE5": {
     "工業所有権基礎": {
       "ID": "19IE40001",
-      "科目種別": "一般",
+      "専門": false,
       "必修": false,
-      "シラバスURL": "/Pages/PublicSyllabus?school_id=07&department_id=11&subject_id=1011&year=2016&lang=ja",
-      "履修": true,
+      "学修": false,
       "単位数": 1,
+      "シラバスURL": "/Pages/PublicSyllabus?school_id=07&department_id=11&subject_id=1011&year=2016&lang=ja",
       "先生": [
         "藤木 博"
       ]
     },
     "化学特論": {
       "ID": "19IE40002",
-      "科目種別": "一般",
+      "専門": false,
       "必修": false,
-      "シラバスURL": "/Pages/PublicSyllabus?school_id=07&department_id=11&subject_id=1012&year=2016&lang=ja",
-      "履修": false,
+      "学修": true,
       "単位数": 2,
+      "シラバスURL": "/Pages/PublicSyllabus?school_id=07&department_id=11&subject_id=1012&year=2016&lang=ja",
       "先生": [
         "小松 京嗣"
       ]
     },
     "フランス語": {
       "ID": "19IE40003",
-      "科目種別": "一般",
+      "専門": false,
       "必修": false,
-      "シラバスURL": "/Pages/PublicSyllabus?school_id=07&department_id=11&subject_id=1017&year=2016&lang=ja",
-      "履修": true,
+      "学修": false,
       "単位数": 2,
+      "シラバスURL": "/Pages/PublicSyllabus?school_id=07&department_id=11&subject_id=1017&year=2016&lang=ja",
       "先生": [
         "SARDE Isabelle"
       ]
     },
     "スポーツ": {
       "ID": "19IE40004",
-      "科目種別": "一般",
+      "専門": false,
       "必修": false,
-      "シラバスURL": "/Pages/PublicSyllabus?school_id=07&department_id=11&subject_id=1018&year=2016&lang=ja",
-      "履修": true,
+      "学修": false,
       "単位数": 2,
+      "シラバスURL": "/Pages/PublicSyllabus?school_id=07&department_id=11&subject_id=1018&year=2016&lang=ja",
       "先生": [
         "兼村 裕介",
         "東畑 陽介"
@@ -2476,110 +2476,110 @@
     },
     "人間科学特論": {
       "ID": "19IE40005",
-      "科目種別": "一般",
+      "専門": false,
       "必修": false,
-      "シラバスURL": "/Pages/PublicSyllabus?school_id=07&department_id=11&subject_id=1019&year=2016&lang=ja",
-      "履修": false,
+      "学修": true,
       "単位数": 2,
+      "シラバスURL": "/Pages/PublicSyllabus?school_id=07&department_id=11&subject_id=1019&year=2016&lang=ja",
       "先生": [
         "笠松 直"
       ]
     },
     "総合英語Ⅰ": {
       "ID": "19IE40006",
-      "科目種別": "一般",
+      "専門": false,
       "必修": false,
-      "シラバスURL": "/Pages/PublicSyllabus?school_id=07&department_id=11&subject_id=1020&year=2016&lang=ja",
-      "履修": true,
+      "学修": false,
       "単位数": 2,
+      "シラバスURL": "/Pages/PublicSyllabus?school_id=07&department_id=11&subject_id=1020&year=2016&lang=ja",
       "先生": [
         "ワーナー川原 ジェシー"
       ]
     },
     "総合英語Ⅱ": {
       "ID": "19IE40007",
-      "科目種別": "一般",
+      "専門": false,
       "必修": false,
-      "シラバスURL": "/Pages/PublicSyllabus?school_id=07&department_id=11&subject_id=1021&year=2016&lang=ja",
-      "履修": true,
+      "学修": false,
       "単位数": 2,
+      "シラバスURL": "/Pages/PublicSyllabus?school_id=07&department_id=11&subject_id=1021&year=2016&lang=ja",
       "先生": [
         "ワーナー川原 ジェシー"
       ]
     },
     "フーリエ解析": {
       "ID": "19IE40001",
-      "科目種別": "専門",
+      "専門": true,
       "必修": false,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=09&subject_id=0030&year=2016&lang=ja",
-      "履修": false,
+      "学修": true,
       "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=09&subject_id=0030&year=2016&lang=ja",
       "先生": [
         "長谷部 一気"
       ]
     },
     "回路工学": {
       "ID": "19IE40002",
-      "科目種別": "専門",
+      "専門": true,
       "必修": true,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=09&subject_id=0062&year=2016&lang=ja",
-      "履修": false,
+      "学修": true,
       "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=09&subject_id=0062&year=2016&lang=ja",
       "先生": [
         "馬場 一隆"
       ]
     },
     "電子デバイスⅠ": {
       "ID": "19IE40003",
-      "科目種別": "専門",
+      "専門": true,
       "必修": false,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=09&subject_id=0063&year=2016&lang=ja",
-      "履修": false,
+      "学修": true,
       "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=09&subject_id=0063&year=2016&lang=ja",
       "先生": [
         "柏葉 安宏"
       ]
     },
     "制御工学": {
       "ID": "19IE40004",
-      "科目種別": "専門",
+      "専門": true,
       "必修": false,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=09&subject_id=0064&year=2016&lang=ja",
-      "履修": false,
+      "学修": true,
       "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=09&subject_id=0064&year=2016&lang=ja",
       "先生": [
         "大場 譲"
       ]
     },
     "電子機器設計基礎": {
       "ID": "19IE40005",
-      "科目種別": "専門",
+      "専門": true,
       "必修": false,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=09&subject_id=0065&year=2016&lang=ja",
-      "履修": true,
+      "学修": false,
       "単位数": 1,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=09&subject_id=0065&year=2016&lang=ja",
       "先生": [
         "大泉 哲哉"
       ]
     },
     "電子物性基礎": {
       "ID": "19IE40006",
-      "科目種別": "専門",
+      "専門": true,
       "必修": false,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=09&subject_id=0067&year=2016&lang=ja",
-      "履修": false,
+      "学修": true,
       "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=09&subject_id=0067&year=2016&lang=ja",
       "先生": [
         "枝松 圭一"
       ]
     },
     "マイクロコンピュータⅠ": {
       "ID": "19IE40007",
-      "科目種別": "専門",
+      "専門": true,
       "必修": true,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=09&subject_id=0069&year=2016&lang=ja",
-      "履修": true,
+      "学修": false,
       "単位数": 1,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=09&subject_id=0069&year=2016&lang=ja",
       "先生": [
         "與那嶺 尚弘",
         "鈴木 順"
@@ -2587,11 +2587,11 @@
     },
     "マイクロコンピュータⅡ": {
       "ID": "19IE40008",
-      "科目種別": "専門",
+      "専門": true,
       "必修": false,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=09&subject_id=0070&year=2016&lang=ja",
-      "履修": true,
+      "学修": false,
       "単位数": 1,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=09&subject_id=0070&year=2016&lang=ja",
       "先生": [
         "與那嶺 尚弘",
         "鈴木 順"
@@ -2599,22 +2599,22 @@
     },
     "機構学": {
       "ID": "19IE40009",
-      "科目種別": "専門",
+      "専門": true,
       "必修": false,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=09&subject_id=0073&year=2016&lang=ja",
-      "履修": false,
+      "学修": true,
       "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=09&subject_id=0073&year=2016&lang=ja",
       "先生": [
         "大泉 哲哉"
       ]
     },
     "知能エレクトロニクス製作": {
       "ID": "19IE40011",
-      "科目種別": "専門",
+      "専門": true,
       "必修": true,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=09&subject_id=0076&year=2016&lang=ja",
-      "履修": true,
+      "学修": false,
       "単位数": 3,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=09&subject_id=0076&year=2016&lang=ja",
       "先生": [
         "川崎 浩司",
         "佐久間 実緒",
@@ -2625,11 +2625,11 @@
     },
     "知能エレクトロニクス実験Ⅰ": {
       "ID": "19IE40012",
-      "科目種別": "専門",
+      "専門": true,
       "必修": true,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=09&subject_id=0077&year=2016&lang=ja",
-      "履修": true,
+      "学修": false,
       "単位数": 3,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=09&subject_id=0077&year=2016&lang=ja",
       "先生": [
         "大場 譲",
         "柏葉 安宏",
@@ -2647,66 +2647,66 @@
     },
     "電磁気学A": {
       "ID": "19IE40013",
-      "科目種別": "専門",
+      "専門": true,
       "必修": true,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=09&subject_id=0078&year=2016&lang=ja",
-      "履修": false,
+      "学修": true,
       "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=09&subject_id=0078&year=2016&lang=ja",
       "先生": [
         "園田 潤"
       ]
     },
     "電磁気学B": {
       "ID": "19IE40014",
-      "科目種別": "専門",
+      "専門": true,
       "必修": true,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=09&subject_id=0079&year=2016&lang=ja",
-      "履修": false,
+      "学修": true,
       "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=09&subject_id=0079&year=2016&lang=ja",
       "先生": [
         "園田 潤"
       ]
     },
     "電子回路A": {
       "ID": "19IE40015",
-      "科目種別": "専門",
+      "専門": true,
       "必修": true,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=09&subject_id=0080&year=2016&lang=ja",
-      "履修": false,
+      "学修": true,
       "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=09&subject_id=0080&year=2016&lang=ja",
       "先生": [
         "林 忠之"
       ]
     },
     "電子回路B": {
       "ID": "19IE40016",
-      "科目種別": "専門",
+      "専門": true,
       "必修": true,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=09&subject_id=0081&year=2016&lang=ja",
-      "履修": false,
+      "学修": true,
       "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=09&subject_id=0081&year=2016&lang=ja",
       "先生": [
         "林 忠之"
       ]
     },
     "電子材料": {
       "ID": "19IE40017",
-      "科目種別": "専門",
+      "専門": true,
       "必修": false,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=09&subject_id=0082&year=2016&lang=ja",
-      "履修": false,
+      "学修": true,
       "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=09&subject_id=0082&year=2016&lang=ja",
       "先生": [
         "川崎 浩司"
       ]
     },
     "応用数学": {
       "ID": "19IE40018",
-      "科目種別": "専門",
+      "専門": true,
       "必修": false,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=09&subject_id=0083&year=2016&lang=ja",
-      "履修": false,
+      "学修": true,
       "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=09&subject_id=0083&year=2016&lang=ja",
       "先生": [
         "藤木 なほみ"
       ]
@@ -2715,44 +2715,44 @@
   "IS5": {
     "工業所有権基礎": {
       "ID": "19IE40001",
-      "科目種別": "一般",
+      "専門": false,
       "必修": false,
-      "シラバスURL": "/Pages/PublicSyllabus?school_id=07&department_id=11&subject_id=1011&year=2016&lang=ja",
-      "履修": true,
+      "学修": false,
       "単位数": 1,
+      "シラバスURL": "/Pages/PublicSyllabus?school_id=07&department_id=11&subject_id=1011&year=2016&lang=ja",
       "先生": [
         "藤木 博"
       ]
     },
     "化学特論": {
       "ID": "19IE40002",
-      "科目種別": "一般",
+      "専門": false,
       "必修": false,
-      "シラバスURL": "/Pages/PublicSyllabus?school_id=07&department_id=11&subject_id=1012&year=2016&lang=ja",
-      "履修": false,
+      "学修": true,
       "単位数": 2,
+      "シラバスURL": "/Pages/PublicSyllabus?school_id=07&department_id=11&subject_id=1012&year=2016&lang=ja",
       "先生": [
         "小松 京嗣"
       ]
     },
     "フランス語": {
       "ID": "19IE40003",
-      "科目種別": "一般",
+      "専門": false,
       "必修": false,
-      "シラバスURL": "/Pages/PublicSyllabus?school_id=07&department_id=11&subject_id=1017&year=2016&lang=ja",
-      "履修": true,
+      "学修": false,
       "単位数": 2,
+      "シラバスURL": "/Pages/PublicSyllabus?school_id=07&department_id=11&subject_id=1017&year=2016&lang=ja",
       "先生": [
         "SARDE Isabelle"
       ]
     },
     "スポーツ": {
       "ID": "19IE40004",
-      "科目種別": "一般",
+      "専門": false,
       "必修": false,
-      "シラバスURL": "/Pages/PublicSyllabus?school_id=07&department_id=11&subject_id=1018&year=2016&lang=ja",
-      "履修": true,
+      "学修": false,
       "単位数": 2,
+      "シラバスURL": "/Pages/PublicSyllabus?school_id=07&department_id=11&subject_id=1018&year=2016&lang=ja",
       "先生": [
         "兼村 裕介",
         "東畑 陽介"
@@ -2760,55 +2760,55 @@
     },
     "人間科学特論": {
       "ID": "19IE40005",
-      "科目種別": "一般",
+      "専門": false,
       "必修": false,
-      "シラバスURL": "/Pages/PublicSyllabus?school_id=07&department_id=11&subject_id=1019&year=2016&lang=ja",
-      "履修": false,
+      "学修": true,
       "単位数": 2,
+      "シラバスURL": "/Pages/PublicSyllabus?school_id=07&department_id=11&subject_id=1019&year=2016&lang=ja",
       "先生": [
         "笠松 直"
       ]
     },
     "総合英語Ⅰ": {
       "ID": "19IE40006",
-      "科目種別": "一般",
+      "専門": false,
       "必修": false,
-      "シラバスURL": "/Pages/PublicSyllabus?school_id=07&department_id=11&subject_id=1020&year=2016&lang=ja",
-      "履修": true,
+      "学修": false,
       "単位数": 2,
+      "シラバスURL": "/Pages/PublicSyllabus?school_id=07&department_id=11&subject_id=1020&year=2016&lang=ja",
       "先生": [
         "ワーナー川原 ジェシー"
       ]
     },
     "総合英語Ⅱ": {
       "ID": "19IE40007",
-      "科目種別": "一般",
+      "専門": false,
       "必修": false,
-      "シラバスURL": "/Pages/PublicSyllabus?school_id=07&department_id=11&subject_id=1021&year=2016&lang=ja",
-      "履修": true,
+      "学修": false,
       "単位数": 2,
+      "シラバスURL": "/Pages/PublicSyllabus?school_id=07&department_id=11&subject_id=1021&year=2016&lang=ja",
       "先生": [
         "ワーナー川原 ジェシー"
       ]
     },
     "ソフトウェア工学基礎": {
       "ID": "19IE40001",
-      "科目種別": "専門",
+      "専門": true,
       "必修": true,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=08&subject_id=0063&year=2016&lang=ja",
-      "履修": false,
+      "学修": true,
       "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=08&subject_id=0063&year=2016&lang=ja",
       "先生": [
         "高橋 晶子"
       ]
     },
     "ソフトウェア分析設計": {
       "ID": "19IE40002",
-      "科目種別": "専門",
+      "専門": true,
       "必修": false,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=08&subject_id=0070&year=2016&lang=ja",
-      "履修": true,
+      "学修": false,
       "単位数": 1,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=08&subject_id=0070&year=2016&lang=ja",
       "先生": [
         "安藤 敏彦",
         "岡本 圭史"
@@ -2816,22 +2816,22 @@
     },
     "情報数学": {
       "ID": "19IE40003",
-      "科目種別": "専門",
+      "専門": true,
       "必修": true,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=08&subject_id=0073&year=2016&lang=ja",
-      "履修": false,
+      "学修": true,
       "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=08&subject_id=0073&year=2016&lang=ja",
       "先生": [
         "岡本 圭史"
       ]
     },
     "情報システム実験Ⅰ": {
       "ID": "19IE40005",
-      "科目種別": "専門",
+      "専門": true,
       "必修": true,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=08&subject_id=0079&year=2016&lang=ja",
-      "履修": true,
+      "学修": false,
       "単位数": 5,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=08&subject_id=0079&year=2016&lang=ja",
       "先生": [
         "安藤 敏彦",
         "岡本 圭史",
@@ -2849,55 +2849,55 @@
     },
     "線形代数": {
       "ID": "19IE40006",
-      "科目種別": "専門",
+      "専門": true,
       "必修": true,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=08&subject_id=0080&year=2016&lang=ja",
-      "履修": false,
+      "学修": true,
       "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=08&subject_id=0080&year=2016&lang=ja",
       "先生": [
         "長谷部 一気"
       ]
     },
     "複素関数論": {
       "ID": "19IE40007",
-      "科目種別": "専門",
+      "専門": true,
       "必修": true,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=08&subject_id=0081&year=2016&lang=ja",
-      "履修": false,
+      "学修": true,
       "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=08&subject_id=0081&year=2016&lang=ja",
       "先生": [
         "長谷部 一気"
       ]
     },
     "フーリエ解析": {
       "ID": "19IE40008",
-      "科目種別": "専門",
+      "専門": true,
       "必修": true,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=08&subject_id=0082&year=2016&lang=ja",
-      "履修": false,
+      "学修": true,
       "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=08&subject_id=0082&year=2016&lang=ja",
       "先生": [
         "長谷部 一気"
       ]
     },
     "アナログ電子回路Ⅱ": {
       "ID": "19IE40009",
-      "科目種別": "専門",
+      "専門": true,
       "必修": true,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=08&subject_id=0083&year=2016&lang=ja",
-      "履修": true,
+      "学修": false,
       "単位数": 1,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=08&subject_id=0083&year=2016&lang=ja",
       "先生": [
         "白根 崇"
       ]
     },
     "応用プログラミングA": {
       "ID": "19IE40010",
-      "科目種別": "専門",
+      "専門": true,
       "必修": true,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=08&subject_id=0084&year=2016&lang=ja",
-      "履修": true,
+      "学修": false,
       "単位数": 1,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=08&subject_id=0084&year=2016&lang=ja",
       "先生": [
         "張 暁勇",
         "高橋 晶子"
@@ -2905,11 +2905,11 @@
     },
     "組込みシステムA": {
       "ID": "19IE40011",
-      "科目種別": "専門",
+      "専門": true,
       "必修": true,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=08&subject_id=0085&year=2016&lang=ja",
-      "履修": false,
+      "学修": true,
       "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=08&subject_id=0085&year=2016&lang=ja",
       "先生": [
         "小林 秀幸",
         "力武 克彰"
@@ -2917,33 +2917,33 @@
     },
     "情報通信ネットワーク": {
       "ID": "19IE40012",
-      "科目種別": "専門",
+      "専門": true,
       "必修": true,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=08&subject_id=0086&year=2016&lang=ja",
-      "履修": false,
+      "学修": true,
       "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=08&subject_id=0086&year=2016&lang=ja",
       "先生": [
         "衣川 昌宏"
       ]
     },
     "情報システム演習": {
       "ID": "19IE40013",
-      "科目種別": "専門",
+      "専門": true,
       "必修": false,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=08&subject_id=0087&year=2016&lang=ja",
-      "履修": true,
+      "学修": false,
       "単位数": 1,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=08&subject_id=0087&year=2016&lang=ja",
       "先生": [
         "竹島 久志"
       ]
     },
     "電磁気学": {
       "ID": "19IE40014",
-      "科目種別": "専門",
+      "専門": true,
       "必修": false,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=08&subject_id=0088&year=2016&lang=ja",
-      "履修": false,
+      "学修": true,
       "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=08&subject_id=0088&year=2016&lang=ja",
       "先生": [
         "白根 崇",
         "熊谷 和志"
@@ -2951,11 +2951,11 @@
     },
     "応用プログラミングB": {
       "ID": "19IE40015",
-      "科目種別": "専門",
+      "専門": true,
       "必修": false,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=08&subject_id=0089&year=2016&lang=ja",
-      "履修": true,
+      "学修": false,
       "単位数": 1,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=08&subject_id=0089&year=2016&lang=ja",
       "先生": [
         "張 暁勇",
         "竹島 久志"
@@ -2963,11 +2963,11 @@
     },
     "組込みシステム実習": {
       "ID": "19IE40016",
-      "科目種別": "専門",
+      "専門": true,
       "必修": false,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=08&subject_id=0090&year=2016&lang=ja",
-      "履修": true,
+      "学修": false,
       "単位数": 1,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=08&subject_id=0090&year=2016&lang=ja",
       "先生": [
         "小林 秀幸",
         "力武 克彰"
@@ -2975,22 +2975,22 @@
     },
     "ネットワークプログラミング": {
       "ID": "19IE40017",
-      "科目種別": "専門",
+      "専門": true,
       "必修": false,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=08&subject_id=0091&year=2016&lang=ja",
-      "履修": false,
+      "学修": true,
       "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=08&subject_id=0091&year=2016&lang=ja",
       "先生": [
         "小林 秀幸"
       ]
     },
     "人工知能": {
       "ID": "19IE40018",
-      "科目種別": "専門",
+      "専門": true,
       "必修": false,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=08&subject_id=0092&year=2016&lang=ja",
-      "履修": false,
+      "学修": true,
       "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=08&subject_id=0092&year=2016&lang=ja",
       "先生": [
         "高橋 晶子"
       ]
@@ -2999,44 +2999,44 @@
   "IN5": {
     "工業所有権基礎": {
       "ID": "19IE40001",
-      "科目種別": "一般",
+      "専門": false,
       "必修": false,
-      "シラバスURL": "/Pages/PublicSyllabus?school_id=07&department_id=11&subject_id=1011&year=2016&lang=ja",
-      "履修": true,
+      "学修": false,
       "単位数": 1,
+      "シラバスURL": "/Pages/PublicSyllabus?school_id=07&department_id=11&subject_id=1011&year=2016&lang=ja",
       "先生": [
         "藤木 博"
       ]
     },
     "化学特論": {
       "ID": "19IE40002",
-      "科目種別": "一般",
+      "専門": false,
       "必修": false,
-      "シラバスURL": "/Pages/PublicSyllabus?school_id=07&department_id=11&subject_id=1012&year=2016&lang=ja",
-      "履修": false,
+      "学修": true,
       "単位数": 2,
+      "シラバスURL": "/Pages/PublicSyllabus?school_id=07&department_id=11&subject_id=1012&year=2016&lang=ja",
       "先生": [
         "小松 京嗣"
       ]
     },
     "フランス語": {
       "ID": "19IE40003",
-      "科目種別": "一般",
+      "専門": false,
       "必修": false,
-      "シラバスURL": "/Pages/PublicSyllabus?school_id=07&department_id=11&subject_id=1017&year=2016&lang=ja",
-      "履修": true,
+      "学修": false,
       "単位数": 2,
+      "シラバスURL": "/Pages/PublicSyllabus?school_id=07&department_id=11&subject_id=1017&year=2016&lang=ja",
       "先生": [
         "SARDE Isabelle"
       ]
     },
     "スポーツ": {
       "ID": "19IE40004",
-      "科目種別": "一般",
+      "専門": false,
       "必修": false,
-      "シラバスURL": "/Pages/PublicSyllabus?school_id=07&department_id=11&subject_id=1018&year=2016&lang=ja",
-      "履修": true,
+      "学修": false,
       "単位数": 2,
+      "シラバスURL": "/Pages/PublicSyllabus?school_id=07&department_id=11&subject_id=1018&year=2016&lang=ja",
       "先生": [
         "兼村 裕介",
         "東畑 陽介"
@@ -3044,77 +3044,77 @@
     },
     "人間科学特論": {
       "ID": "19IE40005",
-      "科目種別": "一般",
+      "専門": false,
       "必修": false,
-      "シラバスURL": "/Pages/PublicSyllabus?school_id=07&department_id=11&subject_id=1019&year=2016&lang=ja",
-      "履修": false,
+      "学修": true,
       "単位数": 2,
+      "シラバスURL": "/Pages/PublicSyllabus?school_id=07&department_id=11&subject_id=1019&year=2016&lang=ja",
       "先生": [
         "笠松 直"
       ]
     },
     "総合英語Ⅰ": {
       "ID": "19IE40006",
-      "科目種別": "一般",
+      "専門": false,
       "必修": false,
-      "シラバスURL": "/Pages/PublicSyllabus?school_id=07&department_id=11&subject_id=1020&year=2016&lang=ja",
-      "履修": true,
+      "学修": false,
       "単位数": 2,
+      "シラバスURL": "/Pages/PublicSyllabus?school_id=07&department_id=11&subject_id=1020&year=2016&lang=ja",
       "先生": [
         "ワーナー川原 ジェシー"
       ]
     },
     "総合英語Ⅱ": {
       "ID": "19IE40007",
-      "科目種別": "一般",
+      "専門": false,
       "必修": false,
-      "シラバスURL": "/Pages/PublicSyllabus?school_id=07&department_id=11&subject_id=1021&year=2016&lang=ja",
-      "履修": true,
+      "学修": false,
       "単位数": 2,
+      "シラバスURL": "/Pages/PublicSyllabus?school_id=07&department_id=11&subject_id=1021&year=2016&lang=ja",
       "先生": [
         "ワーナー川原 ジェシー"
       ]
     },
     "電磁波工学Ⅰ": {
       "ID": "19IE40001",
-      "科目種別": "専門",
+      "専門": true,
       "必修": false,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=07&subject_id=0052&year=2016&lang=ja",
-      "履修": false,
+      "学修": true,
       "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=07&subject_id=0052&year=2016&lang=ja",
       "先生": [
         "鈴木 哲"
       ]
     },
     "電子回路": {
       "ID": "19IE40002",
-      "科目種別": "専門",
+      "専門": true,
       "必修": true,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=07&subject_id=0053&year=2016&lang=ja",
-      "履修": false,
+      "学修": true,
       "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=07&subject_id=0053&year=2016&lang=ja",
       "先生": [
         "今井 裕司"
       ]
     },
     "高周波回路": {
       "ID": "19IE40003",
-      "科目種別": "専門",
+      "専門": true,
       "必修": false,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=07&subject_id=0054&year=2016&lang=ja",
-      "履修": true,
+      "学修": false,
       "単位数": 1,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=07&subject_id=0054&year=2016&lang=ja",
       "先生": [
         "鈴木 哲"
       ]
     },
     "通信工学実験": {
       "ID": "19IE40004",
-      "科目種別": "専門",
+      "専門": true,
       "必修": true,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=07&subject_id=0055&year=2016&lang=ja",
-      "履修": true,
+      "学修": false,
       "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=07&subject_id=0055&year=2016&lang=ja",
       "先生": [
         "今井 裕司",
         "岩井 克全",
@@ -3126,22 +3126,22 @@
     },
     "電磁気学": {
       "ID": "19IE40005",
-      "科目種別": "専門",
+      "専門": true,
       "必修": true,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=07&subject_id=0056&year=2016&lang=ja",
-      "履修": false,
+      "学修": true,
       "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=07&subject_id=0056&year=2016&lang=ja",
       "先生": [
         "岩井 克全"
       ]
     },
     "情報ネットワーク実験Ⅰ": {
       "ID": "19IE40007",
-      "科目種別": "専門",
+      "専門": true,
       "必修": true,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=07&subject_id=0058&year=2016&lang=ja",
-      "履修": true,
+      "学修": false,
       "単位数": 3,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=07&subject_id=0058&year=2016&lang=ja",
       "先生": [
         "今井 裕司",
         "岩井 克全",
@@ -3160,11 +3160,11 @@
     },
     "情報ネットワーク基礎実験": {
       "ID": "19IE40008",
-      "科目種別": "専門",
+      "専門": true,
       "必修": true,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=07&subject_id=0059&year=2016&lang=ja",
-      "履修": true,
+      "学修": false,
       "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=07&subject_id=0059&year=2016&lang=ja",
       "先生": [
         "今井 裕司",
         "岩井 克全",
@@ -3183,22 +3183,22 @@
     },
     "情報セキュリティ基礎": {
       "ID": "19IE40009",
-      "科目種別": "専門",
+      "専門": true,
       "必修": false,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=07&subject_id=0060&year=2016&lang=ja",
-      "履修": false,
+      "学修": true,
       "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=07&subject_id=0060&year=2016&lang=ja",
       "先生": [
         "速水 健一"
       ]
     },
     "ネットワーキング技術Ⅰ": {
       "ID": "19IE40010",
-      "科目種別": "専門",
+      "専門": true,
       "必修": true,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=07&subject_id=0061&year=2016&lang=ja",
-      "履修": false,
+      "学修": true,
       "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=07&subject_id=0061&year=2016&lang=ja",
       "先生": [
         "岩井 克全",
         "千葉 慎二"
@@ -3206,11 +3206,11 @@
     },
     "ネットワーキング技術Ⅱ": {
       "ID": "19IE40011",
-      "科目種別": "専門",
+      "専門": true,
       "必修": true,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=07&subject_id=0062&year=2016&lang=ja",
-      "履修": false,
+      "学修": true,
       "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=07&subject_id=0062&year=2016&lang=ja",
       "先生": [
         "衣川 昌宏",
         "速水 健一"
@@ -3218,66 +3218,66 @@
     },
     "ICTシステム": {
       "ID": "19IE40012",
-      "科目種別": "専門",
+      "専門": true,
       "必修": false,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=07&subject_id=0063&year=2016&lang=ja",
-      "履修": false,
+      "学修": true,
       "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=07&subject_id=0063&year=2016&lang=ja",
       "先生": [
         "千葉 慎二"
       ]
     },
     "情報理論": {
       "ID": "19IE40013",
-      "科目種別": "専門",
+      "専門": true,
       "必修": false,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=07&subject_id=0064&year=2016&lang=ja",
-      "履修": true,
+      "学修": false,
       "単位数": 1,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=07&subject_id=0064&year=2016&lang=ja",
       "先生": [
         "佐藤 公男"
       ]
     },
     "ネットワーク理論": {
       "ID": "19IE40014",
-      "科目種別": "専門",
+      "専門": true,
       "必修": false,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=07&subject_id=0065&year=2016&lang=ja",
-      "履修": false,
+      "学修": true,
       "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=07&subject_id=0065&year=2016&lang=ja",
       "先生": [
         "佐藤 公男"
       ]
     },
     "マルチメディア情報": {
       "ID": "19IE40015",
-      "科目種別": "専門",
+      "専門": true,
       "必修": false,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=07&subject_id=0066&year=2016&lang=ja",
-      "履修": false,
+      "学修": true,
       "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=07&subject_id=0066&year=2016&lang=ja",
       "先生": [
         "奧村 俊昭"
       ]
     },
     "データ管理技術": {
       "ID": "19IE40016",
-      "科目種別": "専門",
+      "専門": true,
       "必修": false,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=07&subject_id=0067&year=2016&lang=ja",
-      "履修": true,
+      "学修": false,
       "単位数": 1,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=07&subject_id=0067&year=2016&lang=ja",
       "先生": [
         "藤原 和彦"
       ]
     },
     "ネットワークプログラミング": {
       "ID": "19IE40017",
-      "科目種別": "専門",
+      "専門": true,
       "必修": false,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=07&subject_id=0068&year=2016&lang=ja",
-      "履修": false,
+      "学修": true,
       "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=07&subject_id=0068&year=2016&lang=ja",
       "先生": [
         "速水 健一",
         "矢島 邦昭"
@@ -3285,33 +3285,33 @@
     },
     "コンピュータシステム": {
       "ID": "19IE40018",
-      "科目種別": "専門",
+      "専門": true,
       "必修": true,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=07&subject_id=0069&year=2016&lang=ja",
-      "履修": false,
+      "学修": true,
       "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=07&subject_id=0069&year=2016&lang=ja",
       "先生": [
         "奧村 俊昭"
       ]
     },
     "フーリエ解析": {
       "ID": "19IE40019",
-      "科目種別": "専門",
+      "専門": true,
       "必修": true,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=07&subject_id=0070&year=2016&lang=ja",
-      "履修": false,
+      "学修": true,
       "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=07&subject_id=0070&year=2016&lang=ja",
       "先生": [
         "長谷部 一気"
       ]
     },
     "複素関数論": {
       "ID": "19IE40020",
-      "科目種別": "専門",
+      "専門": true,
       "必修": true,
-      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=07&subject_id=0071&year=2016&lang=ja",
-      "履修": false,
+      "学修": true,
       "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=07&department_id=07&subject_id=0071&year=2016&lang=ja",
       "先生": [
         "長谷部 一気"
       ]

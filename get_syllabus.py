@@ -3,6 +3,7 @@
 
 import bs4
 import json
+from datetime import date
 
 
 from enum import Enum, auto
@@ -25,7 +26,13 @@ class Course(Enum):
             return "知能エレクトロニクス"
 
 
-# In[71]:
+# In[71]: 
+today = date.today()
+year = 0
+if today.month < 4:
+    year = today.year - 2001
+else:
+    year = today.year - 2000
 
 def out_dict(file_name: str, grade: int, course: Course) -> dict:
     with open(file_name, "r", newline="", encoding="utf-8") as f:
@@ -37,12 +44,12 @@ def out_dict(file_name: str, grade: int, course: Course) -> dict:
         l = s.find_all("td")
         data = {
             l[2].a.text: {
-                "ID": "19%s%d%s" % (course.name, grade, str(i+1).zfill(4)),
-                "科目種別": "%s" % l[0].text,
+                "ID": "%d%s%d%s" % (year, course.name, grade, str(i+1).zfill(4)),
+                "専門": "%s" % l[0].text == "専門",
                 "必修": l[1].text == "必修",
-                "シラバスURL": l[2].a.get("href"),
-                "履修": l[4].text == "履修単位",
+                "学修": l[4].text == "学修単位",
                 "単位数": int(l[5].text),
+                "シラバスURL": l[2].a.get("href"),
                 "先生": l[16].text.strip().split(",")
             }
         }
