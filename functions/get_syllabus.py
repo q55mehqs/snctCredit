@@ -4,9 +4,10 @@
 import bs4
 import json
 from datetime import date
-
-
+from os import chdir, path
 from enum import Enum, auto
+
+chdir(path.dirname(__file__))
 
 class Course(Enum):
     IS = auto()
@@ -68,37 +69,7 @@ def out_dict(file_name: str, grade: int, course: Course) -> dict:
 
     return grade_data[grade-1]
 
-
-# def json_export(grade: int, course: Course) -> dict:
-#     grade_data = [{},{},{}]
-#     for i, s in enumerate(soup[3:-3]):
-#         l = s.find_all("td")
-#         data = {
-#             l[2].a.text: {
-#                 "ID": "19%s%d%s" % (course.name, grade, str(i+1).zfill(4)),
-#                 "科目種別": "%s" % l[0].text,
-#                 "必修": l[1].text == "必修",
-#                 "シラバスURL": l[2].a.get("href"),
-#                 "単位種別": l[4].text,
-#                 "単位数": int(l[5].text),
-#                 "先生": l[16].text.strip().split(",")
-#             }
-#         }
-
-#         if s.get("data-course-value") == course.text() or not s.get("data-course-value"):
-#             if l[6].text.strip() or l[7].text.strip():
-#                 grade_data[0].update(data)
-#             elif l[8].text.strip() or l[9].text.strip():
-#                 grade_data[1].update(data)
-#             elif l[10].text.strip() or l[11].text.strip():
-#                 grade_data[2].update(data)
-
-#     return grade_data[grade-1]
-
-
 #%%
-# print(json_export(3, Course.IS))
-# print(out_dict("syllabus45.html", 4, Course.IS))
 
 exp_value = {}
 
@@ -116,27 +87,26 @@ exp_value.update({"IE3": out_dict("syllabus.html", 3, Course.IE)})
 exp_value.update({"IE4": out_dict("syllabus45.html", 4, Course.IE)})
 exp_value["IE4"].update(out_dict("syllabus45IE.html", 4, Course.IE))
 
-exp_value.update({"IS4": out_dict("syllabus45.html", 4, Course.IE)})
-exp_value["IS4"].update(out_dict("syllabus45IS.html", 4, Course.IE))
+exp_value.update({"IS4": out_dict("syllabus45.html", 4, Course.IS)})
+exp_value["IS4"].update(out_dict("syllabus45IS.html", 4, Course.IS))
 
-exp_value.update({"IN4": out_dict("syllabus45.html", 4, Course.IE)})
-exp_value["IN4"].update(out_dict("syllabus45IN.html", 4, Course.IE))
+exp_value.update({"IN4": out_dict("syllabus45.html", 4, Course.IN)})
+exp_value["IN4"].update(out_dict("syllabus45IN.html", 4, Course.IN))
 
 
-exp_value.update({"IE5": out_dict("syllabus45.html", 4, Course.IE)})
-exp_value["IE5"].update(out_dict("syllabus45IE.html", 4, Course.IE))
+exp_value.update({"IE5": out_dict("syllabus45.html", 5, Course.IE)})
+exp_value["IE5"].update(out_dict("syllabus45IE.html", 5, Course.IE))
 
-exp_value.update({"IS5": out_dict("syllabus45.html", 4, Course.IE)})
-exp_value["IS5"].update(out_dict("syllabus45IS.html", 4, Course.IE))
+exp_value.update({"IS5": out_dict("syllabus45.html", 5, Course.IS)})
+exp_value["IS5"].update(out_dict("syllabus45IS.html", 5, Course.IS))
 
-exp_value.update({"IN5": out_dict("syllabus45.html", 4, Course.IE)})
-exp_value["IN5"].update(out_dict("syllabus45IN.html", 4, Course.IE))
-# exp_value.update({"IS4": out_dict("syllabus45IS.html", 4, Course.IS)})
+exp_value.update({"IN5": out_dict("syllabus45.html", 5, Course.IN)})
+exp_value["IN5"].update(out_dict("syllabus45IN.html", 5, Course.IN))
 
 
 #%%
 print(exp_value)
 
 #%%
-with open("../jugyoList.json", "w", encoding="utf-8", newline="") as f:
+with open("jugyoList.json", "w", encoding="utf-8", newline="") as f:
     f.write(json.dumps(exp_value, indent=2, ensure_ascii=False))
