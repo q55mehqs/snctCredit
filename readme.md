@@ -25,3 +25,19 @@
     - 必修 必修科目なら`true`、選択科目なら`false`
     - 学修 履修科目なら`false`、学修科目なら`true`
     - 単位数
+
+## チェック用関数 (Python)
+
+```bash
+# for bash (Linux, macOS)
+python3 functions/check_syllabus_data.py
+
+# for Windows CMD/PowerShell
+python functions/check_syllabus_data.py
+```
+
+を実行すると学生便覧 (or PDFで公開されている学修単位記載ファイル) の表示に近い形でデータの確認ができます
+
+Pythonが利用できる環境の方はぜひご利用いただき、ミス/抜けチェックをしていただければ幸いです
+
+33行目の`input()`の位置を替える、削除すると表示を変える事ができます
