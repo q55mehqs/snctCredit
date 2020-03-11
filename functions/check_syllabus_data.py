@@ -1,7 +1,8 @@
 from json import loads, dumps
+from os import path
 
 raw = {}
-with open("../jugyoListCredit_reload.json", "r", encoding="utf-8") as f:
+with open(path.join(path.dirname(__file__) ,"../jugyoListCredit_17s-.json"), "r", encoding="utf-8") as f:
     raw = loads(f.read())
 
 checklist = ["IS4", "IT4", "IE4", "IS5", "IT5", "IE5"]
