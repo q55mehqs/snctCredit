@@ -138,5 +138,5 @@ exp_value["IN5"].update(out_dict("syllabus45IN.html", 4, Course.IE))
 print(exp_value)
 
 #%%
-with open("jugyoList.json", "w", encoding="utf-8", newline="") as f:
+with open("../jugyoList.json", "w", encoding="utf-8", newline="") as f:
     f.write(json.dumps(exp_value, indent=2, ensure_ascii=False))

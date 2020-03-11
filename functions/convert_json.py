@@ -1,6 +1,6 @@
 from json import loads, dumps
 
-old_path = "jugyoListCredit"
+old_path = "../jugyoListCredit"
 
 old = {}
 with open(old_path + ".json", "r", encoding="utf-8") as f:

@@ -1,7 +1,7 @@
 from json import loads, dumps
 
 raw = {}
-with open("jugyoListCredit_reload.json", "r", encoding="utf-8") as f:
+with open("../jugyoListCredit_reload.json", "r", encoding="utf-8") as f:
     raw = loads(f.read())
 
 checklist = ["IS4", "IT4", "IE4", "IS5", "IT5", "IE5"]
