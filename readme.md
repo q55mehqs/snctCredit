@@ -6,7 +6,7 @@
 
 ## ファイル詳細
 
-### jugyoListCredit_17s-.json
+### jugyoList_17s-.json
 
 総合工学科の単位に合わせて4、5年を手打ちで書き換えたもの
 
