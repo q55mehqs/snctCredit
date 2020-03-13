@@ -23,6 +23,9 @@
 ## チェック用関数 (Python)
 
 ```bash
+# develop/function ブランチにチェック用関数があるのでブランチを切り替えます
+git checkout develop/function
+
 # for bash (Linux, macOS)
 python3 functions/check_syllabus_data.py
 
