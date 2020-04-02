@@ -82,26 +82,9 @@ exp_value.update({"IE2": out_dict("syllabus.html", 2, Course.IE)})
 exp_value.update({"IS3": out_dict("syllabus.html", 3, Course.IS)})
 exp_value.update({"IT3": out_dict("syllabus.html", 3, Course.IT)})
 exp_value.update({"IE3": out_dict("syllabus.html", 3, Course.IE)})
-
-
-exp_value.update({"IE4": out_dict("syllabus45.html", 4, Course.IE)})
-exp_value["IE4"].update(out_dict("syllabus45IE.html", 4, Course.IE))
-
-exp_value.update({"IS4": out_dict("syllabus45.html", 4, Course.IS)})
-exp_value["IS4"].update(out_dict("syllabus45IS.html", 4, Course.IS))
-
-exp_value.update({"IN4": out_dict("syllabus45.html", 4, Course.IN)})
-exp_value["IN4"].update(out_dict("syllabus45IN.html", 4, Course.IN))
-
-
-exp_value.update({"IE5": out_dict("syllabus45.html", 5, Course.IE)})
-exp_value["IE5"].update(out_dict("syllabus45IE.html", 5, Course.IE))
-
-exp_value.update({"IS5": out_dict("syllabus45.html", 5, Course.IS)})
-exp_value["IS5"].update(out_dict("syllabus45IS.html", 5, Course.IS))
-
-exp_value.update({"IN5": out_dict("syllabus45.html", 5, Course.IN)})
-exp_value["IN5"].update(out_dict("syllabus45IN.html", 5, Course.IN))
+exp_value.update({"IS4": out_dict("syllabus.html", 4, Course.IS)})
+exp_value.update({"IT4": out_dict("syllabus.html", 4, Course.IT)})
+exp_value.update({"IE4": out_dict("syllabus.html", 4, Course.IE)})
 
 
 #%%
