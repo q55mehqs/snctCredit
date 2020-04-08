@@ -1893,6 +1893,28 @@
       "先生": [
         "馬場 一隆"
       ]
+    },
+    "無線技術特論ⅠB［電磁波工学Ⅰ］": {
+      "ID": "20IS40110",
+      "専門": true,
+      "必修": false,
+      "学修": true,
+      "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp//Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1098&year=2017&lang=ja",
+      "先生": [
+        "園田 潤"
+      ]
+    },
+    "無線技術特論ⅠC［電磁波工学Ⅱ］": {
+      "ID": "20IS40111",
+      "専門": true,
+      "必修": false,
+      "学修": true,
+      "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp//Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1099&year=2017&lang=ja",
+      "先生": [
+        "袁 巧微"
+      ]
     }
   },
   "IT4": {
@@ -2286,6 +2308,28 @@
       "先生": [
         "馬場 一隆"
       ]
+    },
+    "無線技術特論ⅠB［電磁波工学Ⅰ］": {
+      "ID": "20IT40110",
+      "専門": true,
+      "必修": false,
+      "学修": true,
+      "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp//Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1098&year=2017&lang=ja",
+      "先生": [
+        "園田 潤"
+      ]
+    },
+    "無線技術特論ⅠC［電磁波工学Ⅱ］": {
+      "ID": "20IT40111",
+      "専門": true,
+      "必修": false,
+      "学修": true,
+      "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp//Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1099&year=2017&lang=ja",
+      "先生": [
+        "袁 巧微"
+      ]
     }
   },
   "IE4": {
@@ -2678,6 +2722,28 @@
       "シラバスURL": "https://syllabus.kosen-k.go.jp//Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1097&year=2017&lang=ja",
       "先生": [
         "馬場 一隆"
+      ]
+    },
+    "無線技術特論ⅠB［電磁波工学Ⅰ］": {
+      "ID": "20IE40110",
+      "専門": true,
+      "必修": false,
+      "学修": true,
+      "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp//Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1098&year=2017&lang=ja",
+      "先生": [
+        "園田 潤"
+      ]
+    },
+    "無線技術特論ⅠC［電磁波工学Ⅱ］": {
+      "ID": "20IE40111",
+      "専門": true,
+      "必修": false,
+      "学修": true,
+      "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp//Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1099&year=2017&lang=ja",
+      "先生": [
+        "袁 巧微"
       ]
     }
   },
