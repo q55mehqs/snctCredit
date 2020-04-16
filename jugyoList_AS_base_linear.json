@@ -1,0 +1,1788 @@
+{
+  "IS4": [
+    {
+      "教科名": "化学特論",
+      "ID": "20IS40049",
+      "専門": false,
+      "必修情報": "選択",
+      "学修": true,
+      "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp//Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1039&year=2017&lang=ja",
+      "先生": [
+        "小松 京嗣"
+      ]
+    },
+    {
+      "教科名": "国語Ⅳ",
+      "ID": "20IS40050",
+      "専門": false,
+      "必修情報": "選択",
+      "学修": true,
+      "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp//Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1040&year=2017&lang=ja",
+      "先生": [
+        "伊勢 英明"
+      ]
+    },
+    {
+      "教科名": "総合英語Ⅰ",
+      "ID": "20IS40051",
+      "専門": false,
+      "必修情報": "選択",
+      "学修": true,
+      "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp//Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1041&year=2017&lang=ja",
+      "先生": [
+        "ワーナー川原 ジェシー"
+      ]
+    },
+    {
+      "教科名": "総合英語Ⅱ",
+      "ID": "20IS40052",
+      "専門": false,
+      "必修情報": "選択",
+      "学修": true,
+      "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp//Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1042&year=2017&lang=ja",
+      "先生": [
+        "ワーナー川原 ジェシー"
+      ]
+    },
+    {
+      "教科名": "政治経済",
+      "ID": "20IS40053",
+      "専門": false,
+      "必修情報": "選択",
+      "学修": true,
+      "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp//Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1043&year=2017&lang=ja",
+      "先生": [
+        "宮﨑 義久"
+      ]
+    },
+    {
+      "教科名": "法学憲法",
+      "ID": "20IS40054",
+      "専門": false,
+      "必修情報": "選択",
+      "学修": true,
+      "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp//Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1044&year=2017&lang=ja",
+      "先生": [
+        "高橋 勇人"
+      ]
+    },
+    {
+      "教科名": "人文科学",
+      "ID": "20IS40055",
+      "専門": false,
+      "必修情報": "選択",
+      "学修": true,
+      "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp//Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1045&year=2017&lang=ja",
+      "先生": [
+        "笠松 直"
+      ]
+    },
+    {
+      "教科名": "健康とスポーツ",
+      "ID": "20IS40056",
+      "専門": false,
+      "必修情報": "選択",
+      "学修": false,
+      "単位数": 1,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp//Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1046&year=2017&lang=ja",
+      "先生": [
+        "兼村 裕介",
+        "東畑 陽介"
+      ]
+    },
+    {
+      "教科名": "フランス語",
+      "ID": "20IS40057",
+      "専門": false,
+      "必修情報": "選択",
+      "学修": false,
+      "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp//Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1101&year=2017&lang=ja",
+      "先生": [
+        "SARDE Isabelle"
+      ]
+    },
+    {
+      "教科名": "工業所有権基礎",
+      "ID": "20IS40058",
+      "専門": false,
+      "必修情報": "選択",
+      "学修": false,
+      "単位数": 1,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp//Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1102&year=2017&lang=ja",
+      "先生": [
+        "藤木 博"
+      ]
+    },
+    {
+      "教科名": "線形代数",
+      "ID": "20IS40059",
+      "専門": true,
+      "必修情報": "選択",
+      "学修": false,
+      "単位数": 1,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp//Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1047&year=2017&lang=ja",
+      "先生": [
+        "長谷部 一気"
+      ]
+    },
+    {
+      "教科名": "フーリエ解析",
+      "ID": "20IS40060",
+      "専門": true,
+      "必修情報": "選択",
+      "学修": false,
+      "単位数": 1,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp//Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1048&year=2017&lang=ja",
+      "先生": [
+        "長谷部 一気"
+      ]
+    },
+    {
+      "教科名": "情報理論",
+      "ID": "20IS40061",
+      "専門": true,
+      "必修情報": "選択",
+      "学修": true,
+      "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp//Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1049&year=2017&lang=ja",
+      "先生": [
+        "岡本 圭史"
+      ]
+    },
+    {
+      "教科名": "ソフトウェア分析設計",
+      "ID": "20IS40064",
+      "専門": true,
+      "必修情報": "選択",
+      "学修": true,
+      "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp//Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1052&year=2017&lang=ja",
+      "先生": [
+        "安藤 敏彦"
+      ]
+    },
+    {
+      "教科名": "ソフトウェア工学基礎",
+      "ID": "20IS40067",
+      "専門": true,
+      "必修情報": "選択",
+      "学修": true,
+      "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp//Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1055&year=2017&lang=ja",
+      "先生": [
+        "藤原 和彦"
+      ]
+    },
+    {
+      "教科名": "マルチメディア情報",
+      "ID": "20IS40070",
+      "専門": true,
+      "必修情報": "選択",
+      "学修": true,
+      "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp//Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1058&year=2017&lang=ja",
+      "先生": [
+        "矢島 邦昭"
+      ]
+    },
+    {
+      "教科名": "ネットワーク理論",
+      "ID": "20IS40073",
+      "専門": true,
+      "必修情報": "選択",
+      "学修": true,
+      "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp//Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1061&year=2017&lang=ja",
+      "先生": [
+        "菅野 浩徳",
+        "千葉 慎二"
+      ]
+    },
+    {
+      "教科名": "融合型PBL",
+      "ID": "20IS40076",
+      "専門": true,
+      "必修情報": "選択",
+      "学修": false,
+      "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp//Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1064&year=2017&lang=ja",
+      "先生": [
+        "竹島 久志",
+        "千葉 慎二",
+        "鈴木 順"
+      ]
+    },
+    {
+      "教科名": "第Ⅰ類実験Ⅰ",
+      "ID": "20IS40077",
+      "専門": true,
+      "必修情報": "選択",
+      "学修": false,
+      "単位数": 1,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp//Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1065&year=2017&lang=ja",
+      "先生": [
+        ""
+      ]
+    },
+    {
+      "教科名": "第Ⅰ類実験Ⅱ",
+      "ID": "20IS40078",
+      "専門": true,
+      "必修情報": "選択",
+      "学修": false,
+      "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp//Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1066&year=2017&lang=ja",
+      "先生": [
+        ""
+      ]
+    },
+    {
+      "教科名": "複素関数",
+      "ID": "20IS40079",
+      "専門": true,
+      "必修情報": "選択",
+      "学修": false,
+      "単位数": 1,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp//Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1067&year=2017&lang=ja",
+      "先生": [
+        "長谷部 一気"
+      ]
+    },
+    {
+      "教科名": "データ工学",
+      "ID": "20IS40080",
+      "専門": true,
+      "必修情報": "選択",
+      "学修": false,
+      "単位数": 1,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp//Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1068&year=2017&lang=ja",
+      "先生": [
+        "竹島 久志"
+      ]
+    },
+    {
+      "教科名": "ネットワーキング技術",
+      "ID": "20IS40081",
+      "専門": true,
+      "必修情報": "選択",
+      "学修": true,
+      "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp//Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1069&year=2017&lang=ja",
+      "先生": [
+        "菅野 浩徳",
+        "速水 健一"
+      ]
+    },
+    {
+      "教科名": "ネットワークプログラミング",
+      "ID": "20IS40084",
+      "専門": true,
+      "必修情報": "選択",
+      "学修": true,
+      "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp//Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1072&year=2017&lang=ja",
+      "先生": [
+        "小林 秀幸"
+      ]
+    },
+    {
+      "教科名": "情報セキュリティ",
+      "ID": "20IS40087",
+      "専門": true,
+      "必修情報": "選択",
+      "学修": true,
+      "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp//Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1075&year=2017&lang=ja",
+      "先生": [
+        "和泉 諭"
+      ]
+    },
+    {
+      "教科名": "マイクロコンピュータ応用",
+      "ID": "20IS40090",
+      "専門": true,
+      "必修情報": "選択",
+      "学修": true,
+      "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp//Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1078&year=2017&lang=ja",
+      "先生": [
+        "鈴木 順",
+        "力武 克彰"
+      ]
+    },
+    {
+      "教科名": "電磁気学",
+      "ID": "20IS40093",
+      "専門": true,
+      "必修情報": "選択",
+      "学修": true,
+      "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp//Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1081&year=2017&lang=ja",
+      "先生": [
+        "柏葉 安宏"
+      ]
+    },
+    {
+      "教科名": "電子回路",
+      "ID": "20IS40096",
+      "専門": true,
+      "必修情報": "選択",
+      "学修": true,
+      "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp//Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1084&year=2017&lang=ja",
+      "先生": [
+        "今井 裕司"
+      ]
+    },
+    {
+      "教科名": "電子材料",
+      "ID": "20IS40099",
+      "専門": true,
+      "必修情報": "選択",
+      "学修": true,
+      "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp//Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1087&year=2017&lang=ja",
+      "先生": [
+        "川崎 浩司"
+      ]
+    },
+    {
+      "教科名": "電子デバイス",
+      "ID": "20IS40100",
+      "専門": true,
+      "必修情報": "選択",
+      "学修": true,
+      "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp//Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1088&year=2017&lang=ja",
+      "先生": [
+        "佐久間 実緒"
+      ]
+    },
+    {
+      "教科名": "電子計測",
+      "ID": "20IS40103",
+      "専門": true,
+      "必修情報": "選択",
+      "学修": true,
+      "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp//Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1091&year=2017&lang=ja",
+      "先生": [
+        "林 忠之"
+      ]
+    },
+    {
+      "教科名": "電子機器設計基礎",
+      "ID": "20IS40106",
+      "専門": true,
+      "必修情報": "選択",
+      "学修": false,
+      "単位数": 1,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp//Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1094&year=2017&lang=ja",
+      "先生": [
+        "末永 貴俊"
+      ]
+    },
+    {
+      "教科名": "制御工学",
+      "ID": "20IS40107",
+      "専門": true,
+      "必修情報": "選択",
+      "学修": false,
+      "単位数": 1,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp//Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1095&year=2017&lang=ja",
+      "先生": [
+        "大場 譲"
+      ]
+    },
+    {
+      "教科名": "機構学",
+      "ID": "20IS40108",
+      "専門": true,
+      "必修情報": "選択",
+      "学修": false,
+      "単位数": 1,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp//Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1096&year=2017&lang=ja",
+      "先生": [
+        "熊谷 和志"
+      ]
+    },
+    {
+      "教科名": "無線技術特論ⅠA［高周波回路］",
+      "ID": "20IS40109",
+      "専門": true,
+      "必修情報": "選択",
+      "学修": true,
+      "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp//Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1097&year=2017&lang=ja",
+      "先生": [
+        "馬場 一隆"
+      ]
+    },
+    {
+      "教科名": "無線技術特論ⅠB［電磁波工学Ⅰ］",
+      "ID": "20IS40110",
+      "専門": true,
+      "必修情報": "選択",
+      "学修": true,
+      "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp//Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1098&year=2017&lang=ja",
+      "先生": [
+        "園田 潤"
+      ]
+    },
+    {
+      "教科名": "無線技術特論ⅠC［電磁波工学Ⅱ］",
+      "ID": "20IS40111",
+      "専門": true,
+      "必修情報": "選択",
+      "学修": true,
+      "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp//Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1099&year=2017&lang=ja",
+      "先生": [
+        "袁 巧微"
+      ]
+    }
+  ],
+  "IS5": [
+    {
+      "教科名": "総合英語Ⅲ",
+      "ID": "19DEV1001",
+      "専門": false,
+      "必修情報": "選択",
+      "学修": true,
+      "単位数": 2
+    },
+    {
+      "教科名": "社会科学",
+      "ID": "19DEV1002",
+      "専門": false,
+      "必修情報": "選択",
+      "学修": true,
+      "単位数": 2
+    },
+    {
+      "教科名": "生物学",
+      "ID": "19DEV1003",
+      "専門": false,
+      "必修情報": "選択",
+      "学修": true,
+      "単位数": 2
+    },
+    {
+      "教科名": "地球科学",
+      "ID": "19DEV1004",
+      "専門": false,
+      "必修情報": "選択",
+      "学修": true,
+      "単位数": 2
+    },
+    {
+      "教科名": "数値解析",
+      "ID": "19DEV1007",
+      "専門": true,
+      "必修情報": "選択",
+      "学修": false,
+      "単位数": 1
+    },
+    {
+      "教科名": "人工知能",
+      "ID": "19DEV1008",
+      "専門": true,
+      "必修情報": "選択",
+      "学修": true,
+      "単位数": 2
+    },
+    {
+      "教科名": "オペレーティングシステム",
+      "ID": "19DEV1009",
+      "専門": true,
+      "必修情報": "選択",
+      "学修": false,
+      "単位数": 1
+    },
+    {
+      "教科名": "分散コンピューティング",
+      "ID": "19DEV1010",
+      "専門": true,
+      "必修情報": "選択",
+      "学修": true,
+      "単位数": 2
+    },
+    {
+      "教科名": "応用ネットワーキング技術",
+      "ID": "19DEV1011",
+      "専門": true,
+      "必修情報": "選択",
+      "学修": false,
+      "単位数": 1
+    },
+    {
+      "教科名": "コンピュータアーキテクチャ",
+      "ID": "19DEV1012",
+      "専門": true,
+      "必修情報": "選択",
+      "学修": false,
+      "単位数": 1
+    },
+    {
+      "教科名": "光工学",
+      "ID": "19DEV1013",
+      "専門": true,
+      "必修情報": "選択",
+      "学修": false,
+      "単位数": 1
+    },
+    {
+      "教科名": "メカトロニクス概論",
+      "ID": "19DEV1014",
+      "専門": true,
+      "必修情報": "選択",
+      "学修": false,
+      "単位数": 1
+    },
+    {
+      "教科名": "ロボティクス",
+      "ID": "19DEV1015",
+      "専門": true,
+      "必修情報": "選択",
+      "学修": true,
+      "単位数": 2
+    },
+    {
+      "教科名": "技術者倫理",
+      "ID": "19DEV1016",
+      "専門": true,
+      "必修情報": "選択",
+      "学修": true,
+      "単位数": 2
+    },
+    {
+      "教科名": "無線技術特論ⅡA [通信計測]",
+      "ID": "19DEV1017",
+      "専門": true,
+      "必修情報": "選択",
+      "学修": true,
+      "単位数": 2
+    },
+    {
+      "教科名": "無線技術特論ⅡB [無線通信システム]",
+      "ID": "19DEV1018",
+      "専門": true,
+      "必修情報": "選択",
+      "学修": true,
+      "単位数": 2
+    },
+    {
+      "教科名": "無線技術特論ⅡC [通信法規]",
+      "ID": "19DEV1019",
+      "専門": true,
+      "必修情報": "選択",
+      "学修": true,
+      "単位数": 2
+    }
+  ],
+  "IT4": [
+    {
+      "教科名": "化学特論",
+      "ID": "20IT40049",
+      "専門": false,
+      "必修情報": "選択",
+      "学修": true,
+      "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp//Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1039&year=2017&lang=ja",
+      "先生": [
+        "小松 京嗣"
+      ]
+    },
+    {
+      "教科名": "国語Ⅳ",
+      "ID": "20IT40050",
+      "専門": false,
+      "必修情報": "選択",
+      "学修": true,
+      "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp//Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1040&year=2017&lang=ja",
+      "先生": [
+        "伊勢 英明"
+      ]
+    },
+    {
+      "教科名": "総合英語Ⅰ",
+      "ID": "20IT40051",
+      "専門": false,
+      "必修情報": "選択",
+      "学修": true,
+      "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp//Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1041&year=2017&lang=ja",
+      "先生": [
+        "ワーナー川原 ジェシー"
+      ]
+    },
+    {
+      "教科名": "総合英語Ⅱ",
+      "ID": "20IT40052",
+      "専門": false,
+      "必修情報": "選択",
+      "学修": true,
+      "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp//Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1042&year=2017&lang=ja",
+      "先生": [
+        "ワーナー川原 ジェシー"
+      ]
+    },
+    {
+      "教科名": "政治経済",
+      "ID": "20IT40053",
+      "専門": false,
+      "必修情報": "選択",
+      "学修": true,
+      "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp//Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1043&year=2017&lang=ja",
+      "先生": [
+        "宮﨑 義久"
+      ]
+    },
+    {
+      "教科名": "法学憲法",
+      "ID": "20IT40054",
+      "専門": false,
+      "必修情報": "選択",
+      "学修": true,
+      "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp//Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1044&year=2017&lang=ja",
+      "先生": [
+        "高橋 勇人"
+      ]
+    },
+    {
+      "教科名": "人文科学",
+      "ID": "20IT40055",
+      "専門": false,
+      "必修情報": "選択",
+      "学修": true,
+      "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp//Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1045&year=2017&lang=ja",
+      "先生": [
+        "笠松 直"
+      ]
+    },
+    {
+      "教科名": "健康とスポーツ",
+      "ID": "20IT40056",
+      "専門": false,
+      "必修情報": "選択",
+      "学修": false,
+      "単位数": 1,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp//Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1046&year=2017&lang=ja",
+      "先生": [
+        "兼村 裕介",
+        "東畑 陽介"
+      ]
+    },
+    {
+      "教科名": "フランス語",
+      "ID": "20IT40057",
+      "専門": false,
+      "必修情報": "選択",
+      "学修": false,
+      "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp//Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1101&year=2017&lang=ja",
+      "先生": [
+        "SARDE Isabelle"
+      ]
+    },
+    {
+      "教科名": "工業所有権基礎",
+      "ID": "20IT40058",
+      "専門": false,
+      "必修情報": "選択",
+      "学修": false,
+      "単位数": 1,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp//Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1102&year=2017&lang=ja",
+      "先生": [
+        "藤木 博"
+      ]
+    },
+    {
+      "教科名": "線形代数",
+      "ID": "20IT40059",
+      "専門": true,
+      "必修情報": "選択",
+      "学修": false,
+      "単位数": 1,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp//Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1047&year=2017&lang=ja",
+      "先生": [
+        "長谷部 一気"
+      ]
+    },
+    {
+      "教科名": "フーリエ解析",
+      "ID": "20IT40060",
+      "専門": true,
+      "必修情報": "選択",
+      "学修": false,
+      "単位数": 1,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp//Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1048&year=2017&lang=ja",
+      "先生": [
+        "長谷部 一気"
+      ]
+    },
+    {
+      "教科名": "情報理論",
+      "ID": "20IT40062",
+      "専門": true,
+      "必修情報": "選択",
+      "学修": true,
+      "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp//Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1050&year=2017&lang=ja",
+      "先生": [
+        "岡本 圭史"
+      ]
+    },
+    {
+      "教科名": "ソフトウェア分析設計",
+      "ID": "20IT40065",
+      "専門": true,
+      "必修情報": "選択",
+      "学修": true,
+      "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp//Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1053&year=2017&lang=ja",
+      "先生": [
+        "安藤 敏彦"
+      ]
+    },
+    {
+      "教科名": "ソフトウェア工学基礎",
+      "ID": "20IT40068",
+      "専門": true,
+      "必修情報": "選択",
+      "学修": true,
+      "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp//Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1056&year=2017&lang=ja",
+      "先生": [
+        "藤原 和彦"
+      ]
+    },
+    {
+      "教科名": "マルチメディア情報",
+      "ID": "20IT40071",
+      "専門": true,
+      "必修情報": "選択",
+      "学修": true,
+      "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp//Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1059&year=2017&lang=ja",
+      "先生": [
+        "矢島 邦昭"
+      ]
+    },
+    {
+      "教科名": "ネットワーク理論",
+      "ID": "20IT40074",
+      "専門": true,
+      "必修情報": "選択",
+      "学修": true,
+      "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp//Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1062&year=2017&lang=ja",
+      "先生": [
+        "菅野 浩徳",
+        "千葉 慎二"
+      ]
+    },
+    {
+      "教科名": "融合型PBL",
+      "ID": "20IT40076",
+      "専門": true,
+      "必修情報": "選択",
+      "学修": false,
+      "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp//Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1064&year=2017&lang=ja",
+      "先生": [
+        "竹島 久志",
+        "千葉 慎二",
+        "鈴木 順"
+      ]
+    },
+    {
+      "教科名": "第Ⅰ類実験Ⅰ",
+      "ID": "20IT40077",
+      "専門": true,
+      "必修情報": "選択",
+      "学修": false,
+      "単位数": 1,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp//Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1065&year=2017&lang=ja",
+      "先生": [
+        ""
+      ]
+    },
+    {
+      "教科名": "第Ⅰ類実験Ⅱ",
+      "ID": "20IT40078",
+      "専門": true,
+      "必修情報": "選択",
+      "学修": false,
+      "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp//Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1066&year=2017&lang=ja",
+      "先生": [
+        ""
+      ]
+    },
+    {
+      "教科名": "複素関数",
+      "ID": "20IT40079",
+      "専門": true,
+      "必修情報": "選択",
+      "学修": false,
+      "単位数": 1,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp//Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1067&year=2017&lang=ja",
+      "先生": [
+        "長谷部 一気"
+      ]
+    },
+    {
+      "教科名": "データ工学",
+      "ID": "20IT40080",
+      "専門": true,
+      "必修情報": "選択",
+      "学修": false,
+      "単位数": 1,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp//Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1068&year=2017&lang=ja",
+      "先生": [
+        "竹島 久志"
+      ]
+    },
+    {
+      "教科名": "ネットワーキング技術",
+      "ID": "20IT40082",
+      "専門": true,
+      "必修情報": "選択",
+      "学修": true,
+      "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp//Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1070&year=2017&lang=ja",
+      "先生": [
+        "菅野 浩徳",
+        "速水 健一"
+      ]
+    },
+    {
+      "教科名": "ネットワークプログラミング",
+      "ID": "20IT40085",
+      "専門": true,
+      "必修情報": "選択",
+      "学修": true,
+      "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp//Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1073&year=2017&lang=ja",
+      "先生": [
+        "小林 秀幸"
+      ]
+    },
+    {
+      "教科名": "情報セキュリティ",
+      "ID": "20IT40088",
+      "専門": true,
+      "必修情報": "選択",
+      "学修": true,
+      "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp//Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1076&year=2017&lang=ja",
+      "先生": [
+        "和泉 諭"
+      ]
+    },
+    {
+      "教科名": "マイクロコンピュータ応用",
+      "ID": "20IT40091",
+      "専門": true,
+      "必修情報": "選択",
+      "学修": true,
+      "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp//Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1079&year=2017&lang=ja",
+      "先生": [
+        "鈴木 順",
+        "力武 克彰"
+      ]
+    },
+    {
+      "教科名": "電磁気学",
+      "ID": "20IT40094",
+      "専門": true,
+      "必修情報": "選択",
+      "学修": true,
+      "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp//Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1082&year=2017&lang=ja",
+      "先生": [
+        "柏葉 安宏"
+      ]
+    },
+    {
+      "教科名": "電子回路",
+      "ID": "20IT40097",
+      "専門": true,
+      "必修情報": "選択",
+      "学修": true,
+      "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp//Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1085&year=2017&lang=ja",
+      "先生": [
+        "今井 裕司"
+      ]
+    },
+    {
+      "教科名": "電子材料",
+      "ID": "20IT40099",
+      "専門": true,
+      "必修情報": "選択",
+      "学修": true,
+      "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp//Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1087&year=2017&lang=ja",
+      "先生": [
+        "川崎 浩司"
+      ]
+    },
+    {
+      "教科名": "電子デバイス",
+      "ID": "20IT40101",
+      "専門": true,
+      "必修情報": "選択",
+      "学修": true,
+      "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp//Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1089&year=2017&lang=ja",
+      "先生": [
+        "佐久間 実緒"
+      ]
+    },
+    {
+      "教科名": "電子計測",
+      "ID": "20IT40104",
+      "専門": true,
+      "必修情報": "選択",
+      "学修": true,
+      "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp//Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1092&year=2017&lang=ja",
+      "先生": [
+        "林 忠之"
+      ]
+    },
+    {
+      "教科名": "電子機器設計基礎",
+      "ID": "20IT40106",
+      "専門": true,
+      "必修情報": "選択",
+      "学修": false,
+      "単位数": 1,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp//Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1094&year=2017&lang=ja",
+      "先生": [
+        "末永 貴俊"
+      ]
+    },
+    {
+      "教科名": "制御工学",
+      "ID": "20IT40107",
+      "専門": true,
+      "必修情報": "選択",
+      "学修": false,
+      "単位数": 1,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp//Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1095&year=2017&lang=ja",
+      "先生": [
+        "大場 譲"
+      ]
+    },
+    {
+      "教科名": "機構学",
+      "ID": "20IT40108",
+      "専門": true,
+      "必修情報": "選択",
+      "学修": false,
+      "単位数": 1,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp//Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1096&year=2017&lang=ja",
+      "先生": [
+        "熊谷 和志"
+      ]
+    },
+    {
+      "教科名": "無線技術特論ⅠA［高周波回路］",
+      "ID": "20IT40109",
+      "専門": true,
+      "必修情報": "選択",
+      "学修": true,
+      "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp//Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1097&year=2017&lang=ja",
+      "先生": [
+        "馬場 一隆"
+      ]
+    },
+    {
+      "教科名": "無線技術特論ⅠB［電磁波工学Ⅰ］",
+      "ID": "20IT40110",
+      "専門": true,
+      "必修情報": "選択",
+      "学修": true,
+      "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp//Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1098&year=2017&lang=ja",
+      "先生": [
+        "園田 潤"
+      ]
+    },
+    {
+      "教科名": "無線技術特論ⅠC［電磁波工学Ⅱ］",
+      "ID": "20IT40111",
+      "専門": true,
+      "必修情報": "選択",
+      "学修": true,
+      "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp//Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1099&year=2017&lang=ja",
+      "先生": [
+        "袁 巧微"
+      ]
+    }
+  ],
+  "IT5": [
+    {
+      "教科名": "総合英語Ⅲ",
+      "ID": "19DEV1001",
+      "専門": false,
+      "必修情報": "選択",
+      "学修": true,
+      "単位数": 2
+    },
+    {
+      "教科名": "社会科学",
+      "ID": "19DEV1002",
+      "専門": false,
+      "必修情報": "選択",
+      "学修": true,
+      "単位数": 2
+    },
+    {
+      "教科名": "生物学",
+      "ID": "19DEV1003",
+      "専門": false,
+      "必修情報": "選択",
+      "学修": true,
+      "単位数": 2
+    },
+    {
+      "教科名": "地球科学",
+      "ID": "19DEV1004",
+      "専門": false,
+      "必修情報": "選択",
+      "学修": true,
+      "単位数": 2
+    },
+    {
+      "教科名": "情報社会学",
+      "ID": "19DEV1005",
+      "専門": true,
+      "必修情報": "選択",
+      "学修": true,
+      "単位数": 2
+    },
+    {
+      "教科名": "数値解析",
+      "ID": "19DEV1007",
+      "専門": true,
+      "必修情報": "選択",
+      "学修": false,
+      "単位数": 1
+    },
+    {
+      "教科名": "人工知能",
+      "ID": "19DEV1008",
+      "専門": true,
+      "必修情報": "選択",
+      "学修": true,
+      "単位数": 2
+    },
+    {
+      "教科名": "オペレーティングシステム",
+      "ID": "19DEV1009",
+      "専門": true,
+      "必修情報": "選択",
+      "学修": false,
+      "単位数": 1
+    },
+    {
+      "教科名": "分散コンピューティング",
+      "ID": "19DEV1010",
+      "専門": true,
+      "必修情報": "選択",
+      "学修": true,
+      "単位数": 2
+    },
+    {
+      "教科名": "応用ネットワーク技術",
+      "ID": "19DEV1011",
+      "専門": true,
+      "必修情報": "選択",
+      "学修": false,
+      "単位数": 1
+    },
+    {
+      "教科名": "コンピュータアーキテクチャ",
+      "ID": "19DEV1012",
+      "専門": true,
+      "必修情報": "選択",
+      "学修": false,
+      "単位数": 1
+    },
+    {
+      "教科名": "光工学",
+      "ID": "19DEV1013",
+      "専門": true,
+      "必修情報": "選択",
+      "学修": false,
+      "単位数": 1
+    },
+    {
+      "教科名": "メカトロニクス概論",
+      "ID": "19DEV1014",
+      "専門": true,
+      "必修情報": "選択",
+      "学修": false,
+      "単位数": 1
+    },
+    {
+      "教科名": "ロボティクス",
+      "ID": "19DEV1015",
+      "専門": true,
+      "必修情報": "選択",
+      "学修": true,
+      "単位数": 2
+    },
+    {
+      "教科名": "技術者倫理",
+      "ID": "19DEV1015",
+      "専門": true,
+      "必修情報": "選択",
+      "学修": true,
+      "単位数": 2
+    },
+    {
+      "教科名": "無線技術特論ⅡA [通信計測]",
+      "ID": "19DEV1016",
+      "専門": true,
+      "必修情報": "選択",
+      "学修": true,
+      "単位数": 2
+    },
+    {
+      "教科名": "無線技術特論ⅡB [無線通信システム]",
+      "ID": "19DEV1017",
+      "専門": true,
+      "必修情報": "選択",
+      "学修": true,
+      "単位数": 2
+    },
+    {
+      "教科名": "無線技術特論ⅡC [通信法規]",
+      "ID": "19DEV1018",
+      "専門": true,
+      "必修情報": "選択",
+      "学修": true,
+      "単位数": 2
+    }
+  ],
+  "IE4": [
+    {
+      "教科名": "化学特論",
+      "ID": "20IE40049",
+      "専門": false,
+      "必修情報": "選択",
+      "学修": true,
+      "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp//Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1039&year=2017&lang=ja",
+      "先生": [
+        "小松 京嗣"
+      ]
+    },
+    {
+      "教科名": "国語Ⅳ",
+      "ID": "20IE40050",
+      "専門": false,
+      "必修情報": "選択",
+      "学修": true,
+      "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp//Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1040&year=2017&lang=ja",
+      "先生": [
+        "伊勢 英明"
+      ]
+    },
+    {
+      "教科名": "総合英語Ⅰ",
+      "ID": "20IE40051",
+      "専門": false,
+      "必修情報": "選択",
+      "学修": true,
+      "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp//Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1041&year=2017&lang=ja",
+      "先生": [
+        "ワーナー川原 ジェシー"
+      ]
+    },
+    {
+      "教科名": "総合英語Ⅱ",
+      "ID": "20IE40052",
+      "専門": false,
+      "必修情報": "選択",
+      "学修": true,
+      "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp//Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1042&year=2017&lang=ja",
+      "先生": [
+        "ワーナー川原 ジェシー"
+      ]
+    },
+    {
+      "教科名": "政治経済",
+      "ID": "20IE40053",
+      "専門": false,
+      "必修情報": "選択",
+      "学修": true,
+      "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp//Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1043&year=2017&lang=ja",
+      "先生": [
+        "宮﨑 義久"
+      ]
+    },
+    {
+      "教科名": "法学憲法",
+      "ID": "20IE40054",
+      "専門": false,
+      "必修情報": "選択",
+      "学修": true,
+      "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp//Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1044&year=2017&lang=ja",
+      "先生": [
+        "高橋 勇人"
+      ]
+    },
+    {
+      "教科名": "人文科学",
+      "ID": "20IE40055",
+      "専門": false,
+      "必修情報": "選択",
+      "学修": true,
+      "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp//Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1045&year=2017&lang=ja",
+      "先生": [
+        "笠松 直"
+      ]
+    },
+    {
+      "教科名": "健康とスポーツ",
+      "ID": "20IE40056",
+      "専門": false,
+      "必修情報": "選択",
+      "学修": false,
+      "単位数": 1,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp//Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1046&year=2017&lang=ja",
+      "先生": [
+        "兼村 裕介",
+        "東畑 陽介"
+      ]
+    },
+    {
+      "教科名": "フランス語",
+      "ID": "20IE40057",
+      "専門": false,
+      "必修情報": "選択",
+      "学修": false,
+      "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp//Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1101&year=2017&lang=ja",
+      "先生": [
+        "SARDE Isabelle"
+      ]
+    },
+    {
+      "教科名": "工業所有権基礎",
+      "ID": "20IE40058",
+      "専門": false,
+      "必修情報": "選択",
+      "学修": false,
+      "単位数": 1,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp//Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1102&year=2017&lang=ja",
+      "先生": [
+        "藤木 博"
+      ]
+    },
+    {
+      "教科名": "線形代数",
+      "ID": "20IE40059",
+      "専門": true,
+      "必修情報": "選択",
+      "学修": false,
+      "単位数": 1,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp//Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1047&year=2017&lang=ja",
+      "先生": [
+        "長谷部 一気"
+      ]
+    },
+    {
+      "教科名": "フーリエ解析",
+      "ID": "20IE40060",
+      "専門": true,
+      "必修情報": "選択",
+      "学修": false,
+      "単位数": 1,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp//Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1048&year=2017&lang=ja",
+      "先生": [
+        "長谷部 一気"
+      ]
+    },
+    {
+      "教科名": "情報理論",
+      "ID": "20IE40063",
+      "専門": true,
+      "必修情報": "選択",
+      "学修": true,
+      "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp//Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1051&year=2017&lang=ja",
+      "先生": [
+        "岡本 圭史"
+      ]
+    },
+    {
+      "教科名": "ソフトウェア分析設計",
+      "ID": "20IE40066",
+      "専門": true,
+      "必修情報": "選択",
+      "学修": true,
+      "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp//Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1054&year=2017&lang=ja",
+      "先生": [
+        "安藤 敏彦"
+      ]
+    },
+    {
+      "教科名": "ソフトウェア工学基礎",
+      "ID": "20IE40069",
+      "専門": true,
+      "必修情報": "選択",
+      "学修": true,
+      "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp//Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1057&year=2017&lang=ja",
+      "先生": [
+        "藤原 和彦"
+      ]
+    },
+    {
+      "教科名": "マルチメディア情報",
+      "ID": "20IE40072",
+      "専門": true,
+      "必修情報": "選択",
+      "学修": true,
+      "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp//Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1060&year=2017&lang=ja",
+      "先生": [
+        "矢島 邦昭"
+      ]
+    },
+    {
+      "教科名": "ネットワーク理論",
+      "ID": "20IE40075",
+      "専門": true,
+      "必修情報": "選択",
+      "学修": true,
+      "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp//Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1063&year=2017&lang=ja",
+      "先生": [
+        "菅野 浩徳",
+        "千葉 慎二"
+      ]
+    },
+    {
+      "教科名": "融合型PBL",
+      "ID": "20IE40076",
+      "専門": true,
+      "必修情報": "選択",
+      "学修": false,
+      "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp//Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1064&year=2017&lang=ja",
+      "先生": [
+        "竹島 久志",
+        "千葉 慎二",
+        "鈴木 順"
+      ]
+    },
+    {
+      "教科名": "第Ⅰ類実験Ⅰ",
+      "ID": "20IE40077",
+      "専門": true,
+      "必修情報": "選択",
+      "学修": false,
+      "単位数": 1,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp//Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1065&year=2017&lang=ja",
+      "先生": [
+        ""
+      ]
+    },
+    {
+      "教科名": "第Ⅰ類実験Ⅱ",
+      "ID": "20IE40078",
+      "専門": true,
+      "必修情報": "選択",
+      "学修": false,
+      "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp//Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1066&year=2017&lang=ja",
+      "先生": [
+        ""
+      ]
+    },
+    {
+      "教科名": "複素関数",
+      "ID": "20IE40079",
+      "専門": true,
+      "必修情報": "選択",
+      "学修": false,
+      "単位数": 1,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp//Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1067&year=2017&lang=ja",
+      "先生": [
+        "長谷部 一気"
+      ]
+    },
+    {
+      "教科名": "データ工学",
+      "ID": "20IE40080",
+      "専門": true,
+      "必修情報": "選択",
+      "学修": false,
+      "単位数": 1,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp//Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1068&year=2017&lang=ja",
+      "先生": [
+        "竹島 久志"
+      ]
+    },
+    {
+      "教科名": "ネットワーキング技術",
+      "ID": "20IE40083",
+      "専門": true,
+      "必修情報": "選択",
+      "学修": true,
+      "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp//Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1071&year=2017&lang=ja",
+      "先生": [
+        "菅野 浩徳",
+        "速水 健一"
+      ]
+    },
+    {
+      "教科名": "ネットワークプログラミング",
+      "ID": "20IE40086",
+      "専門": true,
+      "必修情報": "選択",
+      "学修": true,
+      "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp//Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1074&year=2017&lang=ja",
+      "先生": [
+        "小林 秀幸"
+      ]
+    },
+    {
+      "教科名": "情報セキュリティ",
+      "ID": "20IE40089",
+      "専門": true,
+      "必修情報": "選択",
+      "学修": true,
+      "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp//Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1077&year=2017&lang=ja",
+      "先生": [
+        "和泉 諭"
+      ]
+    },
+    {
+      "教科名": "マイクロコンピュータ応用",
+      "ID": "20IE40092",
+      "専門": true,
+      "必修情報": "選択",
+      "学修": true,
+      "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp//Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1080&year=2017&lang=ja",
+      "先生": [
+        "鈴木 順",
+        "力武 克彰"
+      ]
+    },
+    {
+      "教科名": "電磁気学",
+      "ID": "20IE40095",
+      "専門": true,
+      "必修情報": "選択",
+      "学修": true,
+      "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp//Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1083&year=2017&lang=ja",
+      "先生": [
+        "柏葉 安宏"
+      ]
+    },
+    {
+      "教科名": "電子回路",
+      "ID": "20IE40098",
+      "専門": true,
+      "必修情報": "選択",
+      "学修": true,
+      "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp//Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1086&year=2017&lang=ja",
+      "先生": [
+        "今井 裕司"
+      ]
+    },
+    {
+      "教科名": "電子材料",
+      "ID": "20IE40099",
+      "専門": true,
+      "必修情報": "選択",
+      "学修": true,
+      "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp//Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1087&year=2017&lang=ja",
+      "先生": [
+        "川崎 浩司"
+      ]
+    },
+    {
+      "教科名": "電子デバイス",
+      "ID": "20IE40102",
+      "専門": true,
+      "必修情報": "選択",
+      "学修": true,
+      "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp//Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1090&year=2017&lang=ja",
+      "先生": [
+        "佐久間 実緒"
+      ]
+    },
+    {
+      "教科名": "電子計測",
+      "ID": "20IE40105",
+      "専門": true,
+      "必修情報": "選択",
+      "学修": true,
+      "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp//Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1093&year=2017&lang=ja",
+      "先生": [
+        "林 忠之"
+      ]
+    },
+    {
+      "教科名": "電子機器設計基礎",
+      "ID": "20IE40106",
+      "専門": true,
+      "必修情報": "選択",
+      "学修": false,
+      "単位数": 1,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp//Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1094&year=2017&lang=ja",
+      "先生": [
+        "末永 貴俊"
+      ]
+    },
+    {
+      "教科名": "制御工学",
+      "ID": "20IE40107",
+      "専門": true,
+      "必修情報": "選択",
+      "学修": false,
+      "単位数": 1,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp//Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1095&year=2017&lang=ja",
+      "先生": [
+        "大場 譲"
+      ]
+    },
+    {
+      "教科名": "機構学",
+      "ID": "20IE40108",
+      "専門": true,
+      "必修情報": "選択",
+      "学修": false,
+      "単位数": 1,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp//Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1096&year=2017&lang=ja",
+      "先生": [
+        "熊谷 和志"
+      ]
+    },
+    {
+      "教科名": "無線技術特論ⅠA［高周波回路］",
+      "ID": "20IE40109",
+      "専門": true,
+      "必修情報": "選択",
+      "学修": true,
+      "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp//Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1097&year=2017&lang=ja",
+      "先生": [
+        "馬場 一隆"
+      ]
+    },
+    {
+      "教科名": "無線技術特論ⅠB［電磁波工学Ⅰ］",
+      "ID": "20IE40110",
+      "専門": true,
+      "必修情報": "選択",
+      "学修": true,
+      "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp//Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1098&year=2017&lang=ja",
+      "先生": [
+        "園田 潤"
+      ]
+    },
+    {
+      "教科名": "無線技術特論ⅠC［電磁波工学Ⅱ］",
+      "ID": "20IE40111",
+      "専門": true,
+      "必修情報": "選択",
+      "学修": true,
+      "単位数": 2,
+      "シラバスURL": "https://syllabus.kosen-k.go.jp//Pages/PublicSyllabus?school_id=07&department_id=20&subject_id=1099&year=2017&lang=ja",
+      "先生": [
+        "袁 巧微"
+      ]
+    }
+  ],
+  "IE5": [
+    {
+      "教科名": "総合英語Ⅲ",
+      "ID": "19DEV1001",
+      "専門": false,
+      "必修情報": "選択",
+      "学修": true,
+      "単位数": 2
+    },
+    {
+      "教科名": "社会科学",
+      "ID": "19DEV1002",
+      "専門": false,
+      "必修情報": "選択",
+      "学修": true,
+      "単位数": 2
+    },
+    {
+      "教科名": "生物学",
+      "ID": "19DEV1003",
+      "専門": false,
+      "必修情報": "選択",
+      "学修": true,
+      "単位数": 2
+    },
+    {
+      "教科名": "地球科学",
+      "ID": "19DEV1004",
+      "専門": false,
+      "必修情報": "選択",
+      "学修": true,
+      "単位数": 2
+    },
+    {
+      "教科名": "情報社会学",
+      "ID": "19DEV1005",
+      "専門": true,
+      "必修情報": "選択",
+      "学修": true,
+      "単位数": 2
+    },
+    {
+      "教科名": "数値解析",
+      "ID": "19DEV1007",
+      "専門": true,
+      "必修情報": "選択",
+      "学修": false,
+      "単位数": 1
+    },
+    {
+      "教科名": "人工知能",
+      "ID": "19DEV1008",
+      "専門": true,
+      "必修情報": "選択",
+      "学修": true,
+      "単位数": 2
+    },
+    {
+      "教科名": "オペレーティングシステム",
+      "ID": "19DEV1009",
+      "専門": true,
+      "必修情報": "選択",
+      "学修": false,
+      "単位数": 1
+    },
+    {
+      "教科名": "分散コンピューティング",
+      "ID": "19DEV1010",
+      "専門": true,
+      "必修情報": "選択",
+      "学修": true,
+      "単位数": 2
+    },
+    {
+      "教科名": "応用ネットワーク技術",
+      "ID": "19DEV1011",
+      "専門": true,
+      "必修情報": "選択",
+      "学修": false,
+      "単位数": 1
+    },
+    {
+      "教科名": "コンピュータアーキテクチャ",
+      "ID": "19DEV1012",
+      "専門": true,
+      "必修情報": "選択",
+      "学修": false,
+      "単位数": 1
+    },
+    {
+      "教科名": "光工学",
+      "ID": "19DEV1013",
+      "専門": true,
+      "必修情報": "選択",
+      "学修": false,
+      "単位数": 1
+    },
+    {
+      "教科名": "メカトロニクス概論",
+      "ID": "19DEV1014",
+      "専門": true,
+      "必修情報": "選択",
+      "学修": false,
+      "単位数": 1
+    },
+    {
+      "教科名": "ロボティクス",
+      "ID": "19DEV1015",
+      "専門": true,
+      "必修情報": "選択",
+      "学修": true,
+      "単位数": 2
+    },
+    {
+      "教科名": "技術者倫理",
+      "ID": "19DEV1015",
+      "専門": true,
+      "必修情報": "選択",
+      "学修": true,
+      "単位数": 2
+    },
+    {
+      "教科名": "無線技術特論ⅡA [通信計測]",
+      "ID": "19DEV1017",
+      "専門": true,
+      "必修情報": "選択",
+      "学修": true,
+      "単位数": 2
+    },
+    {
+      "教科名": "無線技術特論ⅡB [無線通信システム]",
+      "ID": "19DEV1018",
+      "専門": true,
+      "必修情報": "選択",
+      "学修": true,
+      "単位数": 2
+    },
+    {
+      "教科名": "無線技術特論ⅡC [通信法規]",
+      "ID": "19DEV1019",
+      "専門": true,
+      "必修情報": "選択",
+      "学修": true,
+      "単位数": 2
+    }
+  ]
+}
