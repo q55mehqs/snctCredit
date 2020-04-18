@@ -24,7 +24,7 @@
 
 ```bash
 # develop/function ブランチにチェック用関数があるのでブランチを切り替えます
-git checkout develop/function
+git checkout develop/functions
 
 # for bash (Linux, macOS)
 python3 functions/check_syllabus_data.py
